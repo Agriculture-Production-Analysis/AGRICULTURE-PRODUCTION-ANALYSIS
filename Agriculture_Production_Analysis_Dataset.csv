@@ -1,0 +1,1001 @@
+﻿Record_ID,Year,State,District,Season,Crop,Area_Hectares,Rainfall_mm,Temperature_C,Soil_Type,Irrigation_Method,Fertilizer_kg_per_hectare,Yield_Tonnes_per_Hectare,Production_Tonnes
+1,2019,Punjab,Bathinda,Kharif,Millets,566,342.7,22.8,Sandy,Rainfed,167.5,0.99,560.52
+2,2016,Andhra Pradesh,Anantapur,Annual,Sugarcane,1284,947.9,18.4,Laterite,Canal,134.5,62.04,79653.91
+3,2021,Rajasthan,Ajmer,Rabi,Maize,1367,440.1,27.5,Alluvial,Rainfed,121.1,2.44,3336.22
+4,2024,Telangana,Nizamabad,Rabi,Wheat,2924,492,22,Laterite,Borewell,46.2,3.12,9118.89
+5,2016,Maharashtra,Nashik,Rabi,Millets,1121,563.9,32.4,Sandy,Drip,179.5,1.06,1185.32
+6,2021,Uttar Pradesh,Varanasi,Rabi,Millets,1375,341.1,25.6,Sandy,Borewell,189.2,1.33,1822.44
+7,2015,Maharashtra,Kolhapur,Kharif,Pulses,2668,255.3,29.8,Alluvial,Canal,168,1.11,2971.16
+8,2024,Karnataka,Raichur,Kharif,Soybean,3199,643.7,31.4,Red,Canal,106.7,1.5,4811.73
+9,2025,Tamil Nadu,Salem,Rabi,Millets,1670,270.1,26.7,Alluvial,Rainfed,141,1.16,1934.55
+10,2024,Punjab,Patiala,Kharif,Pulses,1584,309.9,26.5,Black,Borewell,131.5,1.23,1945.87
+11,2021,Punjab,Jalandhar,Kharif,Cotton,1822,635.3,28.6,Red,Rainfed,154,1.58,2874.15
+12,2025,Maharashtra,Kolhapur,Kharif,Cotton,1763,465.1,25.5,Black,Rainfed,40.1,1.36,2396.88
+13,2023,Karnataka,Ballari,Kharif,Millets,4513,319.5,25.7,Laterite,Canal,70.3,1.26,5690.49
+14,2015,Rajasthan,Jaipur,Kharif,Cotton,1953,547.8,19.5,Black,Canal,219.6,1.6,3115.6
+15,2021,Andhra Pradesh,Krishna,Annual,Sugarcane,3574,966.9,35.9,Red,Drip,83.6,68.09,243362.16
+16,2020,Karnataka,Belagavi,Kharif,Rice,2427,700.9,26.9,Alluvial,Rainfed,183.7,3.01,7306.3
+17,2025,Karnataka,Ballari,Rabi,Maize,1469,329.4,27.3,Laterite,Drip,111.6,3.07,4507.63
+18,2016,Rajasthan,Jaipur,Kharif,Pulses,4161,232.2,30.3,Red,Drip,133,0.93,3851.62
+19,2025,Telangana,Mahabubnagar,Kharif,Groundnut,2156,581.9,22.2,Alluvial,Drip,112.8,2,4321.99
+20,2018,Maharashtra,Nagpur,Rabi,Rice,1545,772.1,35,Black,Rainfed,40.9,2.56,3952.55
+21,2017,Andhra Pradesh,Krishna,Annual,Sugarcane,3891,899,25.3,Laterite,Borewell,174,74.51,289927.64
+22,2021,Rajasthan,Jaipur,Rabi,Maize,1145,596.7,25.9,Alluvial,Borewell,103,3.28,3758.23
+23,2017,Punjab,Ludhiana,Rabi,Groundnut,4742,478.8,27.9,Sandy,Drip,174.6,2.42,11498.87
+24,2017,Tamil Nadu,Thanjavur,Kharif,Groundnut,799,432.2,30.5,Sandy,Canal,88.3,1.89,1511.89
+25,2024,Andhra Pradesh,Guntur,Annual,Sugarcane,1995,672.8,33.3,Alluvial,Borewell,98.1,62.72,125120.58
+26,2021,Telangana,Nalgonda,Annual,Sugarcane,2906,592.8,24.7,Sandy,Canal,40.9,60.14,174776.53
+27,2017,Maharashtra,Pune,Rabi,Millets,1266,290.5,25.9,Alluvial,Borewell,137.7,1.19,1512.66
+28,2015,Andhra Pradesh,Krishna,Annual,Sugarcane,1815,505.7,28.9,Sandy,Borewell,213.7,52.1,94563.52
+29,2017,Uttar Pradesh,Prayagraj,Kharif,Cotton,4464,537,24.8,Alluvial,Borewell,54.1,1.51,6754.63
+30,2023,Tamil Nadu,Tiruchirappalli,Kharif,Soybean,2031,441.6,25.5,Black,Borewell,83.2,1.13,2286.44
+31,2021,Telangana,Khammam,Kharif,Groundnut,4899,704.1,31.6,Alluvial,Canal,104.1,1.58,7751.21
+32,2015,Telangana,Khammam,Kharif,Groundnut,2241,526.9,30.5,Laterite,Canal,177.4,2.08,4657.3
+33,2024,Maharashtra,Pune,Kharif,Groundnut,2949,480.2,30.4,Sandy,Rainfed,150.9,1.91,5640.08
+34,2022,Andhra Pradesh,Guntur,Kharif,Cotton,2031,741.9,21.4,Black,Rainfed,187.7,1.24,2511.56
+35,2025,Telangana,Warangal,Rabi,Millets,4480,312.5,27.9,Sandy,Rainfed,44.2,1.25,5617.28
+36,2025,Telangana,Nizamabad,Rabi,Groundnut,512,470.5,24.7,Sandy,Borewell,71.9,2.11,1080.3
+37,2018,Rajasthan,Udaipur,Kharif,Rice,2243,728.2,26.1,Sandy,Canal,162.4,4.16,9320.47
+38,2018,Karnataka,Mysuru,Kharif,Rice,828,747.5,25.6,Black,Canal,212.5,4.18,3460.75
+39,2017,Telangana,Nizamabad,Kharif,Cotton,3677,451,36.4,Alluvial,Rainfed,139.7,1.16,4248.91
+40,2019,Tamil Nadu,Thanjavur,Kharif,Soybean,3082,642.8,34.5,Alluvial,Canal,65.7,1.48,4572.53
+41,2021,Maharashtra,Pune,Annual,Sugarcane,1291,806.7,28,Sandy,Canal,144.6,75.85,97925.17
+42,2021,Uttar Pradesh,Varanasi,Kharif,Rice,4412,400.7,31.8,Laterite,Canal,179.9,3.17,13980.76
+43,2017,Karnataka,Mandya,Kharif,Maize,4368,498,25.7,Red,Rainfed,178.1,3.32,14493.35
+44,2023,Punjab,Ludhiana,Kharif,Maize,1314,406.8,26.8,Black,Canal,213.4,2.81,3686.48
+45,2020,Rajasthan,Bikaner,Rabi,Groundnut,3384,530,27.2,Red,Canal,79,1.85,6263.83
+46,2020,Telangana,Khammam,Annual,Sugarcane,3430,878,31.4,Laterite,Borewell,70.5,69.66,238926.85
+47,2019,Rajasthan,Kota,Rabi,Wheat,4236,390.1,19.5,Black,Borewell,114,2.94,12462.12
+48,2020,Rajasthan,Bikaner,Kharif,Maize,355,585.8,27.7,Red,Drip,195.9,2.93,1039.75
+49,2015,Punjab,Ludhiana,Annual,Sugarcane,2293,560.8,33.1,Alluvial,Rainfed,190.9,44.72,102537.16
+50,2021,Karnataka,Mysuru,Rabi,Groundnut,4713,516.2,35.6,Sandy,Drip,140,2.01,9453.01
+51,2019,Tamil Nadu,Madurai,Kharif,Maize,2148,513.2,29.3,Black,Rainfed,151.3,2.82,6067.82
+52,2020,Rajasthan,Kota,Rabi,Wheat,2265,372.1,31,Black,Borewell,141,3.24,7335.88
+53,2019,Telangana,Warangal,Kharif,Soybean,4081,472.6,30.1,Laterite,Drip,149.5,1.43,5845.68
+54,2016,Punjab,Patiala,Kharif,Maize,1431,276.8,35.8,Laterite,Borewell,134.2,2.54,3638.42
+55,2024,Tamil Nadu,Erode,Kharif,Millets,2932,328.3,19.5,Red,Rainfed,102.5,0.99,2897.44
+56,2023,Karnataka,Belagavi,Kharif,Maize,3545,400.1,29.5,Laterite,Borewell,201.4,3.05,10824.99
+57,2019,Tamil Nadu,Madurai,Kharif,Maize,4799,474.1,26.7,Black,Borewell,104.1,3.86,18529.18
+58,2023,Telangana,Mahabubnagar,Rabi,Pulses,2361,356.2,24.2,Black,Borewell,217.5,0.98,2319.07
+59,2022,Rajasthan,Sri Ganganagar,Kharif,Soybean,464,652.8,23.5,Alluvial,Borewell,59.3,1.37,636.39
+60,2019,Karnataka,Belagavi,Kharif,Pulses,2175,257.3,22.1,Laterite,Canal,101.7,0.99,2161.47
+61,2016,Andhra Pradesh,East Godavari,Kharif,Pulses,2258,403.1,29.5,Black,Borewell,108.2,0.84,1891.11
+62,2025,Maharashtra,Nashik,Rabi,Wheat,2075,227.9,26.9,Black,Canal,58.3,2.24,4653.33
+63,2023,Punjab,Bathinda,Kharif,Millets,4954,363.4,31.1,Alluvial,Drip,187.1,1.31,6465.42
+64,2023,Rajasthan,Sri Ganganagar,Rabi,Maize,4389,724.8,34.3,Alluvial,Rainfed,76.9,2.4,10554.5
+65,2015,Maharashtra,Nagpur,Kharif,Cotton,4727,494.5,25.6,Red,Rainfed,55.7,1.47,6963.53
+66,2020,Punjab,Bathinda,Kharif,Maize,4885,727.4,18.2,Red,Drip,98,2.76,13499.02
+67,2023,Telangana,Khammam,Kharif,Pulses,2094,457.7,24.3,Alluvial,Borewell,207.3,0.84,1768.49
+68,2025,Maharashtra,Nashik,Rabi,Groundnut,2735,550.6,26.1,Laterite,Rainfed,65.2,1.74,4762.94
+69,2019,Uttar Pradesh,Varanasi,Kharif,Maize,2998,531.9,36.3,Laterite,Borewell,145.9,3.23,9670
+70,2020,Rajasthan,Sri Ganganagar,Kharif,Maize,4770,326.2,27.1,Black,Borewell,135.7,2.5,11943.16
+71,2017,Rajasthan,Udaipur,Kharif,Soybean,297,621.8,29.6,Red,Canal,182.9,1.55,460.25
+72,2025,Maharashtra,Amravati,Kharif,Soybean,519,728.1,30.2,Black,Canal,142.6,1.44,746.99
+73,2020,Karnataka,Mandya,Rabi,Rice,3328,504.3,40.4,Laterite,Rainfed,169.6,2.7,8972.3
+74,2024,Karnataka,Dharwad,Kharif,Cotton,1934,693,28.6,Red,Borewell,80.9,1.51,2910.82
+75,2016,Andhra Pradesh,Prakasam,Rabi,Millets,1084,416.8,22.8,Alluvial,Drip,141.7,1.36,1473.13
+76,2024,Rajasthan,Bikaner,Kharif,Millets,3156,494.9,33.1,Alluvial,Rainfed,208.2,0.99,3130.75
+77,2024,Punjab,Ludhiana,Kharif,Groundnut,1745,524.2,25.2,Black,Drip,133.4,2.06,3596.94
+78,2024,Tamil Nadu,Thanjavur,Kharif,Groundnut,3607,530.2,32.9,Alluvial,Borewell,136.7,2.01,7248.02
+79,2025,Andhra Pradesh,Krishna,Rabi,Wheat,3700,379,27.4,Alluvial,Canal,71.7,3.16,11699.93
+80,2015,Uttar Pradesh,Prayagraj,Kharif,Millets,4480,492.4,32.1,Laterite,Canal,132.7,1.22,5470.23
+81,2020,Telangana,Warangal,Kharif,Cotton,441,861.4,27.3,Sandy,Borewell,116.8,1.37,603
+82,2022,Uttar Pradesh,Bareilly,Kharif,Rice,2165,798.7,22.5,Red,Borewell,119.3,3.27,7076.65
+83,2015,Uttar Pradesh,Kanpur,Kharif,Cotton,3435,379.7,23.5,Red,Borewell,44.6,1.31,4486.39
+84,2023,Andhra Pradesh,Chittoor,Kharif,Millets,2906,290.7,24.2,Sandy,Borewell,101.1,1.28,3707.97
+85,2017,Karnataka,Mysuru,Rabi,Millets,2243,351,27.3,Alluvial,Drip,210,1.34,3011.39
+86,2024,Uttar Pradesh,Agra,Kharif,Soybean,874,690.9,29.1,Sandy,Drip,155.7,1.53,1341.33
+87,2025,Telangana,Khammam,Kharif,Cotton,4941,494.5,31.9,Laterite,Rainfed,102.1,1.52,7524.92
+88,2017,Telangana,Karimnagar,Rabi,Groundnut,3677,422.5,28.8,Red,Borewell,217.4,1.85,6791.13
+89,2017,Rajasthan,Jaipur,Rabi,Wheat,3380,448.4,19.3,Sandy,Borewell,79.2,2.98,10056.14
+90,2021,Uttar Pradesh,Varanasi,Rabi,Wheat,904,438.1,22.6,Red,Borewell,157.3,3.32,2997.72
+91,2019,Punjab,Jalandhar,Annual,Sugarcane,2174,1220.9,34.1,Black,Borewell,143.2,57.72,125477.94
+92,2020,Tamil Nadu,Erode,Rabi,Wheat,1486,399.2,32.4,Laterite,Rainfed,93.5,2.61,3879.91
+93,2019,Andhra Pradesh,Prakasam,Annual,Sugarcane,1885,786,27.5,Alluvial,Borewell,100.2,71.3,134397.49
+94,2015,Tamil Nadu,Thanjavur,Rabi,Pulses,1340,350.7,34.2,Black,Canal,187.4,1.04,1396.24
+95,2016,Maharashtra,Nagpur,Annual,Sugarcane,2422,1095.2,24.3,Black,Canal,211,61.56,149089.19
+96,2022,Punjab,Bathinda,Kharif,Millets,4162,393.1,31.9,Black,Drip,156.4,1.4,5840.16
+97,2015,Telangana,Khammam,Kharif,Soybean,4090,434.9,38.7,Sandy,Rainfed,74.7,0.85,3476.2
+98,2018,Karnataka,Raichur,Rabi,Wheat,1034,545.4,14.8,Black,Rainfed,105.6,2.04,2110.91
+99,2025,Tamil Nadu,Madurai,Kharif,Maize,3083,271.2,21.2,Black,Borewell,159.1,2.65,8184.15
+100,2021,Telangana,Khammam,Rabi,Wheat,838,427.6,31.8,Alluvial,Canal,41.7,2.71,2274.46
+101,2023,Telangana,Khammam,Rabi,Groundnut,371,433,33.5,Laterite,Rainfed,83,1.35,502.46
+102,2018,Uttar Pradesh,Bareilly,Rabi,Wheat,245,241.3,21.6,Laterite,Canal,211,2.6,638.14
+103,2021,Karnataka,Dharwad,Annual,Sugarcane,1563,948.2,31.2,Sandy,Drip,173.8,60.58,94688.5
+104,2019,Rajasthan,Ajmer,Annual,Sugarcane,3664,817.7,26.5,Red,Rainfed,103,50.43,184769.26
+105,2018,Punjab,Ludhiana,Kharif,Pulses,2013,187.9,27.8,Alluvial,Rainfed,165.3,0.68,1370.39
+106,2022,Rajasthan,Udaipur,Annual,Sugarcane,992,1366.8,31.2,Sandy,Canal,197.9,46.18,45810.65
+107,2023,Maharashtra,Solapur,Kharif,Pulses,1455,295.4,26.2,Black,Borewell,55.7,1.07,1558.33
+108,2019,Punjab,Firozpur,Kharif,Millets,1013,310.1,28,Black,Canal,198.9,1.37,1384.69
+109,2022,Karnataka,Mandya,Rabi,Maize,4030,545,29.9,Alluvial,Drip,84.2,3.11,12536.24
+110,2024,Rajasthan,Jaipur,Kharif,Pulses,4551,391.2,29.9,Sandy,Drip,196.9,0.82,3723.52
+111,2021,Punjab,Amritsar,Rabi,Groundnut,4098,394.4,30.9,Red,Borewell,151,2.01,8217.4
+112,2017,Telangana,Karimnagar,Kharif,Millets,1107,370.5,25.2,Red,Borewell,191.2,1.31,1447.74
+113,2020,Punjab,Firozpur,Kharif,Groundnut,1987,531.8,24.3,Black,Borewell,102.3,1.92,3819.99
+114,2018,Karnataka,Mandya,Rabi,Wheat,862,453.9,24.6,Sandy,Canal,98.2,3.11,2678.66
+115,2024,Karnataka,Belagavi,Kharif,Soybean,3653,408.9,17.1,Sandy,Rainfed,79.7,0.84,3059.19
+116,2025,Uttar Pradesh,Varanasi,Annual,Sugarcane,3878,1028.7,26.6,Sandy,Rainfed,111.6,52.58,203907.87
+117,2020,Karnataka,Belagavi,Rabi,Rice,3698,538.4,29.9,Black,Rainfed,106.3,3.41,12611.1
+118,2023,Rajasthan,Udaipur,Rabi,Millets,3776,404.5,30.3,Red,Rainfed,152.7,0.96,3632.05
+119,2023,Tamil Nadu,Erode,Rabi,Maize,2353,680.2,33.8,Laterite,Borewell,76.1,2.62,6158.24
+120,2019,Punjab,Firozpur,Annual,Sugarcane,216,612.2,35.8,Sandy,Canal,123.6,56.95,12301.98
+121,2025,Andhra Pradesh,Prakasam,Annual,Sugarcane,828,973.7,29.2,Alluvial,Borewell,58.9,61.25,50717.04
+122,2020,Telangana,Mahabubnagar,Annual,Sugarcane,2820,856.2,27.1,Laterite,Canal,136.2,79.61,224489.84
+123,2024,Uttar Pradesh,Lucknow,Kharif,Cotton,1017,626.5,22.6,Red,Canal,160.7,1.88,1907.45
+124,2023,Tamil Nadu,Salem,Annual,Sugarcane,3244,911.8,24.1,Red,Drip,210.5,75.15,243786.11
+125,2025,Maharashtra,Amravati,Kharif,Soybean,307,773.9,27.9,Red,Borewell,47.3,1.14,350.58
+126,2020,Uttar Pradesh,Kanpur,Rabi,Wheat,2234,392.4,36.7,Alluvial,Canal,215.7,2.72,6074.98
+127,2019,Rajasthan,Bikaner,Kharif,Soybean,4890,666.8,18,Alluvial,Rainfed,75.9,1.16,5694.56
+128,2015,Tamil Nadu,Tiruchirappalli,Kharif,Rice,258,811.8,25.8,Sandy,Borewell,106.8,3.97,1024.37
+129,2023,Rajasthan,Kota,Kharif,Rice,1373,634.9,35,Red,Borewell,182.7,3.81,5230.34
+130,2017,Karnataka,Belagavi,Annual,Sugarcane,629,1172.6,30.5,Alluvial,Rainfed,113,50.58,31817.54
+131,2021,Andhra Pradesh,Anantapur,Rabi,Wheat,2440,417.6,32.3,Laterite,Borewell,146.7,3.12,7613.68
+132,2020,Maharashtra,Nashik,Kharif,Soybean,3316,649.4,26.6,Red,Drip,41.6,1.58,5237.47
+133,2025,Maharashtra,Kolhapur,Kharif,Soybean,3181,323.4,28.1,Black,Borewell,84.8,1.16,3696.43
+134,2018,Telangana,Warangal,Annual,Sugarcane,1407,836.3,36.3,Black,Rainfed,120.3,58.28,82004.04
+135,2016,Uttar Pradesh,Varanasi,Kharif,Cotton,2481,555.9,23.9,Laterite,Canal,155.2,1.66,4117.61
+136,2015,Tamil Nadu,Coimbatore,Kharif,Groundnut,1329,387,34.3,Red,Drip,40.9,2,2654.88
+137,2022,Andhra Pradesh,Chittoor,Kharif,Pulses,3349,328.2,17.6,Sandy,Canal,209.2,1.04,3479.76
+138,2021,Rajasthan,Kota,Kharif,Groundnut,1899,431.6,24.3,Red,Rainfed,216.2,1.55,2938.64
+139,2015,Uttar Pradesh,Agra,Rabi,Wheat,3819,454.5,29.3,Alluvial,Drip,164.1,3.38,12900.01
+140,2019,Karnataka,Ballari,Rabi,Groundnut,2508,512,23.6,Red,Rainfed,97.3,1.8,4525.93
+141,2023,Telangana,Khammam,Kharif,Pulses,1447,380.7,30.1,Laterite,Rainfed,185.4,0.85,1236.85
+142,2020,Telangana,Nalgonda,Rabi,Rice,554,467.2,19.6,Sandy,Borewell,138.7,3.23,1788.27
+143,2020,Rajasthan,Jaipur,Rabi,Maize,3438,680.6,31.5,Red,Rainfed,130.1,2.36,8104.08
+144,2019,Rajasthan,Kota,Annual,Sugarcane,1277,577.1,27.8,Laterite,Rainfed,177.7,53.46,68263.21
+145,2025,Andhra Pradesh,Anantapur,Kharif,Groundnut,1114,493.7,28.7,Alluvial,Canal,208.2,1.93,2154.79
+146,2019,Andhra Pradesh,Prakasam,Kharif,Cotton,3735,613.2,27.9,Laterite,Borewell,96,1.76,6558.02
+147,2018,Andhra Pradesh,Krishna,Kharif,Rice,2237,630.8,26.3,Laterite,Canal,134.5,4.35,9736.33
+148,2018,Rajasthan,Jaipur,Rabi,Millets,1575,386.7,16.8,Alluvial,Canal,154.8,1.22,1920.9
+149,2024,Maharashtra,Pune,Kharif,Pulses,2525,348.8,25.9,Black,Canal,180.5,0.97,2439.59
+150,2024,Karnataka,Dharwad,Kharif,Soybean,245,525.1,28.9,Red,Canal,82.3,1.59,389.57
+151,2019,Telangana,Khammam,Rabi,Rice,2566,787.8,36.9,Red,Borewell,153.8,2.75,7056.06
+152,2019,Telangana,Karimnagar,Kharif,Maize,3829,342.1,18.4,Black,Rainfed,218.4,2.02,7747.39
+153,2024,Karnataka,Dharwad,Annual,Sugarcane,1290,751.8,30.9,Sandy,Drip,74.5,61.99,79972.45
+154,2018,Karnataka,Ballari,Kharif,Pulses,1904,249.9,27.2,Sandy,Canal,155.2,0.97,1854.77
+155,2024,Rajasthan,Kota,Rabi,Maize,441,576.4,35.8,Red,Borewell,100,2.99,1320.33
+156,2023,Andhra Pradesh,Anantapur,Kharif,Groundnut,4506,383.4,27.4,Black,Rainfed,40.2,1.46,6593.81
+157,2021,Rajasthan,Ajmer,Rabi,Maize,4543,595.2,30.4,Black,Rainfed,133.8,2.74,12441.07
+158,2020,Andhra Pradesh,Guntur,Rabi,Groundnut,1623,366.9,23,Red,Borewell,102.3,1.56,2524.97
+159,2021,Telangana,Nalgonda,Rabi,Maize,1789,542.7,38.2,Alluvial,Rainfed,143.4,2.59,4632.59
+160,2020,Maharashtra,Nashik,Rabi,Rice,693,861.1,31.9,Red,Drip,185.1,3.62,2511.06
+161,2019,Maharashtra,Amravati,Kharif,Pulses,4325,347,27.5,Red,Canal,195.2,1.18,5105.53
+162,2018,Uttar Pradesh,Lucknow,Annual,Sugarcane,3046,741.7,28.6,Sandy,Canal,64.3,74.1,225700.71
+163,2016,Maharashtra,Kolhapur,Kharif,Cotton,3136,584.3,23.4,Sandy,Canal,148.5,1.68,5254.57
+164,2016,Punjab,Patiala,Kharif,Groundnut,4837,653.1,26.6,Black,Borewell,70.7,1.42,6846.43
+165,2015,Maharashtra,Amravati,Kharif,Maize,1738,419.4,23.7,Laterite,Borewell,152.3,3.15,5466.04
+166,2017,Punjab,Amritsar,Rabi,Groundnut,2239,340.9,26.7,Sandy,Rainfed,42,1.43,3210.15
+167,2020,Karnataka,Raichur,Annual,Sugarcane,2808,791.8,28.8,Sandy,Canal,42.2,61.93,173896.09
+168,2019,Tamil Nadu,Coimbatore,Rabi,Wheat,4368,408.7,25,Black,Borewell,121.8,3.46,15130.69
+169,2016,Punjab,Jalandhar,Kharif,Cotton,4819,529.1,34.7,Black,Rainfed,194.7,1.36,6562.38
+170,2015,Andhra Pradesh,Chittoor,Kharif,Rice,3291,813.4,22,Laterite,Canal,90.3,3.83,12614.93
+171,2025,Rajasthan,Ajmer,Kharif,Millets,4954,407.1,28.3,Black,Rainfed,52,1.11,5490.21
+172,2019,Karnataka,Raichur,Kharif,Rice,1131,597.8,27.8,Alluvial,Canal,212.2,4.26,4812.97
+173,2025,Andhra Pradesh,Prakasam,Kharif,Cotton,4631,632.3,32.2,Laterite,Borewell,114.2,1.6,7416.97
+174,2015,Uttar Pradesh,Agra,Annual,Sugarcane,1346,764.6,30.2,Black,Borewell,77,55.78,75079.67
+175,2023,Uttar Pradesh,Varanasi,Kharif,Pulses,477,363.5,26.8,Red,Rainfed,92.7,0.97,464.77
+176,2016,Uttar Pradesh,Prayagraj,Rabi,Groundnut,622,392.5,27.9,Alluvial,Borewell,110,1.63,1014.09
+177,2019,Maharashtra,Amravati,Kharif,Cotton,3343,575.5,26.3,Sandy,Borewell,186.9,1.97,6569.24
+178,2016,Telangana,Nizamabad,Kharif,Pulses,2296,283.6,34.2,Laterite,Canal,97.6,1.1,2526.45
+179,2016,Telangana,Mahabubnagar,Rabi,Wheat,4408,495.1,29.6,Alluvial,Canal,101.6,2.86,12587.75
+180,2017,Tamil Nadu,Coimbatore,Rabi,Rice,802,673.3,23.1,Black,Rainfed,68.8,3.25,2608.53
+181,2015,Rajasthan,Jaipur,Kharif,Groundnut,1955,418.7,29.6,Red,Rainfed,186.7,1.64,3201.82
+182,2018,Andhra Pradesh,Guntur,Rabi,Pulses,2381,248.2,29.9,Red,Rainfed,162.1,0.91,2165.34
+183,2019,Punjab,Firozpur,Kharif,Millets,797,287.1,17.6,Laterite,Rainfed,79.1,0.88,698.72
+184,2022,Uttar Pradesh,Prayagraj,Annual,Sugarcane,2552,817.6,21.7,Black,Borewell,126.6,66.16,168830.14
+185,2018,Rajasthan,Bikaner,Kharif,Soybean,3047,597.4,24,Red,Rainfed,44.1,1.2,3661.4
+186,2022,Punjab,Firozpur,Rabi,Maize,1232,560.9,24.8,Alluvial,Borewell,66.5,3.07,3785.75
+187,2018,Punjab,Ludhiana,Rabi,Wheat,1236,559.8,29.8,Alluvial,Rainfed,93.9,2,2471.71
+188,2025,Uttar Pradesh,Varanasi,Kharif,Cotton,498,688.8,25.6,Alluvial,Rainfed,211.1,1.22,607.62
+189,2017,Maharashtra,Solapur,Rabi,Wheat,3796,575.9,34.5,Black,Drip,180.9,2.16,8211.29
+190,2019,Karnataka,Ballari,Kharif,Maize,2103,478.9,33.3,Sandy,Rainfed,153.6,2.41,5060.16
+191,2022,Punjab,Amritsar,Kharif,Maize,3484,448.9,25.4,Black,Rainfed,158.3,3.24,11293.2
+192,2021,Uttar Pradesh,Varanasi,Annual,Sugarcane,262,1075.5,23.9,Red,Borewell,176.7,60.36,15814.3
+193,2018,Tamil Nadu,Tiruchirappalli,Kharif,Pulses,1819,308.5,24.8,Alluvial,Canal,135.8,1.08,1959.51
+194,2022,Punjab,Firozpur,Rabi,Wheat,1271,527.2,25.3,Black,Borewell,216.3,2.45,3116.5
+195,2015,Punjab,Amritsar,Rabi,Groundnut,2038,512.4,26.4,Laterite,Borewell,60.5,1.75,3557.41
+196,2020,Maharashtra,Nashik,Kharif,Pulses,3162,324.7,27.2,Sandy,Drip,170.1,0.98,3113.71
+197,2020,Uttar Pradesh,Lucknow,Rabi,Rice,1617,496.7,13.9,Sandy,Canal,159.6,2.81,4547.14
+198,2021,Andhra Pradesh,Krishna,Kharif,Maize,3257,603.9,23.9,Laterite,Borewell,216.1,3.31,10775.8
+199,2024,Telangana,Khammam,Kharif,Cotton,1191,564.8,34.3,Sandy,Rainfed,69.1,1.32,1570.88
+200,2024,Tamil Nadu,Thanjavur,Rabi,Millets,4642,281.6,27.5,Alluvial,Drip,137,1.34,6214.25
+201,2023,Uttar Pradesh,Varanasi,Kharif,Soybean,2526,772.9,24.4,Alluvial,Canal,73.6,1.13,2844.69
+202,2019,Maharashtra,Kolhapur,Rabi,Pulses,4754,117.9,31.8,Laterite,Canal,150.4,0.69,3289.07
+203,2015,Karnataka,Mandya,Rabi,Millets,2367,307.9,24.7,Sandy,Rainfed,187.7,1.06,2497.28
+204,2017,Uttar Pradesh,Bareilly,Annual,Sugarcane,2691,967.3,24.6,Black,Borewell,217.1,69.77,187760.9
+205,2020,Tamil Nadu,Madurai,Kharif,Cotton,1629,406.1,25.9,Alluvial,Rainfed,56.7,1.15,1867.87
+206,2023,Maharashtra,Nashik,Kharif,Groundnut,1495,509.2,30.3,Black,Borewell,129,2.08,3108.86
+207,2022,Maharashtra,Amravati,Rabi,Groundnut,1341,454.8,25.3,Laterite,Drip,173.1,1.87,2500.98
+208,2020,Karnataka,Mysuru,Kharif,Soybean,1774,537,30,Black,Canal,161.7,1.35,2403.38
+209,2020,Rajasthan,Ajmer,Kharif,Soybean,4319,570.4,24.3,Red,Borewell,95,1.32,5684.47
+210,2018,Karnataka,Mysuru,Kharif,Groundnut,559,552.2,24.3,Laterite,Rainfed,86.9,1.75,979.34
+211,2025,Karnataka,Belagavi,Kharif,Soybean,3774,394,20.6,Laterite,Borewell,63.2,1.11,4199.46
+212,2015,Punjab,Firozpur,Kharif,Cotton,380,500.9,26.7,Black,Borewell,203.9,1.87,711.01
+213,2021,Telangana,Nizamabad,Kharif,Cotton,3889,436.8,31.9,Black,Borewell,197.1,1.35,5261.11
+214,2022,Uttar Pradesh,Prayagraj,Kharif,Cotton,2612,321.9,25.7,Alluvial,Canal,80.7,1.53,3996.65
+215,2022,Telangana,Nizamabad,Kharif,Cotton,4108,699.9,27.5,Laterite,Borewell,219.2,1.71,7039.58
+216,2018,Punjab,Jalandhar,Rabi,Groundnut,4040,382.1,28.1,Sandy,Borewell,45.9,1.98,8010.96
+217,2021,Andhra Pradesh,Guntur,Kharif,Millets,1547,299.6,18.8,Black,Borewell,69.7,1.07,1650.58
+218,2018,Tamil Nadu,Salem,Annual,Sugarcane,4700,699.1,30.5,Laterite,Canal,109.2,61.44,288753.98
+219,2022,Uttar Pradesh,Varanasi,Rabi,Wheat,1285,452.6,26.9,Black,Canal,47.2,3.31,4255.64
+220,2015,Karnataka,Belagavi,Kharif,Rice,241,434.8,30.4,Black,Borewell,41,2.72,655.85
+221,2015,Uttar Pradesh,Kanpur,Kharif,Cotton,4797,261.5,20.5,Red,Borewell,207.7,1.16,5577.2
+222,2022,Tamil Nadu,Thanjavur,Kharif,Pulses,1912,306.8,17.3,Black,Canal,161.6,0.87,1662.87
+223,2017,Karnataka,Raichur,Rabi,Rice,3503,699.2,30.5,Sandy,Rainfed,95.7,3.55,12421.69
+224,2023,Punjab,Bathinda,Rabi,Groundnut,273,495.3,24.2,Red,Borewell,159.8,2.11,576.56
+225,2022,Maharashtra,Nashik,Kharif,Groundnut,3908,303.2,23,Black,Drip,160.3,1.72,6731.28
+226,2017,Andhra Pradesh,East Godavari,Rabi,Wheat,3289,461.7,22.2,Sandy,Drip,52,3.11,10219.07
+227,2017,Rajasthan,Kota,Kharif,Rice,2382,1033,24.8,Red,Drip,185.4,2.59,6166.28
+228,2019,Telangana,Warangal,Annual,Sugarcane,1230,1264.4,23.6,Black,Borewell,182,52.26,64279.19
+229,2023,Andhra Pradesh,East Godavari,Rabi,Maize,3234,491.4,25.4,Red,Canal,117.5,3.19,10312.99
+230,2018,Rajasthan,Jaipur,Kharif,Rice,3373,837.4,33.3,Alluvial,Borewell,182.5,3.26,10994.56
+231,2016,Telangana,Mahabubnagar,Rabi,Groundnut,3859,679.7,24.9,Sandy,Drip,81.1,1.85,7143.65
+232,2024,Karnataka,Belagavi,Kharif,Cotton,1278,336.2,20.5,Alluvial,Canal,127.8,1.21,1551.6
+233,2019,Andhra Pradesh,Chittoor,Rabi,Groundnut,3258,493.3,26.9,Black,Drip,91.9,2.42,7881.65
+234,2018,Maharashtra,Pune,Annual,Sugarcane,3240,936.3,21.7,Red,Canal,84.4,74.11,240104.61
+235,2017,Karnataka,Mandya,Rabi,Wheat,4957,404.5,24.9,Laterite,Canal,189.5,3.25,16111.15
+236,2017,Telangana,Nizamabad,Kharif,Millets,1234,309.8,29.5,Sandy,Drip,198.5,1.42,1756.21
+237,2021,Telangana,Karimnagar,Kharif,Maize,2667,496.7,24.4,Laterite,Drip,63.8,3.75,10007.89
+238,2020,Andhra Pradesh,East Godavari,Annual,Sugarcane,3832,964.7,34.3,Sandy,Rainfed,89.6,60.04,230069.59
+239,2017,Maharashtra,Amravati,Kharif,Rice,4861,648.1,28.8,Red,Borewell,134,4.06,19747.33
+240,2016,Punjab,Patiala,Kharif,Pulses,3636,378.8,25.5,Laterite,Rainfed,125.8,0.93,3390.61
+241,2015,Rajasthan,Ajmer,Kharif,Rice,4035,538.1,22.1,Alluvial,Borewell,131.9,3.61,14553.19
+242,2020,Punjab,Amritsar,Annual,Sugarcane,4878,915.6,31.9,Sandy,Borewell,184.8,62.17,303259.79
+243,2017,Rajasthan,Sri Ganganagar,Rabi,Pulses,4214,291.8,25.4,Sandy,Rainfed,65.7,1.01,4239.69
+244,2015,Tamil Nadu,Erode,Kharif,Pulses,3847,259.1,28.4,Black,Rainfed,90.5,0.93,3574.1
+245,2017,Punjab,Firozpur,Rabi,Maize,1009,291.7,28,Black,Borewell,183,2.88,2906.57
+246,2024,Maharashtra,Nashik,Rabi,Wheat,2258,459.4,25.5,Alluvial,Rainfed,207.3,2.55,5748.28
+247,2019,Karnataka,Ballari,Kharif,Soybean,3978,683.9,21.4,Sandy,Canal,78.6,1.32,5256.37
+248,2021,Telangana,Mahabubnagar,Kharif,Rice,1689,680,24.8,Red,Rainfed,188.1,3.64,6153.36
+249,2025,Uttar Pradesh,Bareilly,Kharif,Cotton,1135,328.2,26.9,Red,Rainfed,169.9,1.14,1297.41
+250,2024,Telangana,Warangal,Rabi,Rice,1909,786.6,22.4,Red,Borewell,101.3,3.85,7354.13
+251,2025,Rajasthan,Bikaner,Kharif,Pulses,4332,268.6,30.9,Laterite,Drip,209.7,1.04,4510.49
+252,2015,Uttar Pradesh,Varanasi,Kharif,Maize,570,231.7,26.4,Alluvial,Rainfed,161.7,1.91,1090.91
+253,2022,Tamil Nadu,Coimbatore,Kharif,Groundnut,622,489.4,27.9,Black,Canal,180.7,2.14,1333.56
+254,2021,Andhra Pradesh,Guntur,Rabi,Groundnut,2687,472.3,32,Red,Rainfed,178.7,1.4,3748.52
+255,2019,Punjab,Ludhiana,Rabi,Wheat,496,569.8,24.2,Black,Rainfed,125,2.43,1205.75
+256,2016,Telangana,Nizamabad,Kharif,Soybean,4076,649.7,22.9,Red,Rainfed,215.4,1.04,4226.82
+257,2015,Maharashtra,Amravati,Annual,Sugarcane,455,1098.4,29.3,Red,Borewell,58,64.34,29275.22
+258,2022,Tamil Nadu,Coimbatore,Annual,Sugarcane,3941,856.8,15.1,Black,Drip,88,67.36,265451.07
+259,2015,Telangana,Nizamabad,Annual,Sugarcane,4023,564.2,25.5,Black,Borewell,215.7,49.35,198530.12
+260,2019,Tamil Nadu,Madurai,Rabi,Pulses,3562,306.7,34,Laterite,Rainfed,142.7,0.89,3184.01
+261,2018,Tamil Nadu,Erode,Kharif,Soybean,4502,688.5,30,Sandy,Borewell,94.5,1.18,5298.82
+262,2016,Telangana,Khammam,Rabi,Wheat,3376,403.8,34.5,Red,Borewell,218.2,2.68,9046.98
+263,2025,Rajasthan,Ajmer,Rabi,Wheat,3971,401,24.1,Alluvial,Rainfed,151.6,2.96,11768.36
+264,2019,Telangana,Karimnagar,Kharif,Maize,3531,623.5,29.3,Laterite,Borewell,170.5,3.03,10694.83
+265,2024,Punjab,Ludhiana,Rabi,Wheat,1876,419.6,30.5,Black,Borewell,64.2,3.56,6669.83
+266,2019,Karnataka,Mandya,Rabi,Groundnut,3745,461,33.2,Red,Canal,122.5,1.94,7250.98
+267,2025,Uttar Pradesh,Prayagraj,Rabi,Millets,719,384.5,28.7,Laterite,Rainfed,59.6,1.19,854.15
+268,2025,Maharashtra,Nagpur,Rabi,Pulses,456,433.6,20.9,Red,Drip,74.2,0.9,410.84
+269,2015,Karnataka,Raichur,Rabi,Wheat,4814,468.6,26.5,Red,Rainfed,69.1,2.6,12514.06
+270,2021,Rajasthan,Ajmer,Kharif,Rice,4382,693.8,31.7,Sandy,Canal,104.3,4.3,18843.22
+271,2024,Andhra Pradesh,East Godavari,Rabi,Groundnut,2469,626.5,27.3,Sandy,Canal,112.5,1.94,4798.09
+272,2023,Tamil Nadu,Madurai,Kharif,Cotton,1561,640,26.2,Alluvial,Borewell,132.3,1.64,2565.54
+273,2019,Karnataka,Dharwad,Kharif,Cotton,1729,324.1,31.5,Red,Drip,109.5,1.45,2507.58
+274,2015,Andhra Pradesh,Anantapur,Rabi,Rice,253,431.7,27.1,Black,Canal,212.1,3.05,771.79
+275,2018,Rajasthan,Bikaner,Kharif,Pulses,4904,332.5,34.7,Sandy,Borewell,176.6,0.9,4389.8
+276,2019,Maharashtra,Nashik,Kharif,Millets,4657,340.2,33.8,Red,Canal,146.4,1.2,5606.38
+277,2018,Karnataka,Ballari,Kharif,Pulses,370,292.8,31.7,Alluvial,Rainfed,99.8,0.95,353.04
+278,2017,Rajasthan,Kota,Kharif,Cotton,389,563.2,31.7,Laterite,Borewell,46.8,1.52,590.4
+279,2023,Uttar Pradesh,Lucknow,Kharif,Pulses,799,255.4,27.2,Red,Canal,76.6,0.9,720.87
+280,2018,Maharashtra,Nagpur,Rabi,Maize,4159,621.8,22.9,Laterite,Rainfed,192.7,2.47,10289.41
+281,2025,Andhra Pradesh,Prakasam,Kharif,Groundnut,305,442.1,23.3,Laterite,Drip,175.8,1.91,582.61
+282,2024,Tamil Nadu,Thanjavur,Kharif,Soybean,3373,369.2,27.6,Red,Borewell,105.1,1.36,4571.65
+283,2020,Punjab,Ludhiana,Kharif,Groundnut,2900,690.7,41,Laterite,Drip,120.8,1.22,3537.64
+284,2015,Punjab,Patiala,Annual,Sugarcane,1106,1115.3,31.2,Black,Borewell,185.3,53.44,59107.55
+285,2018,Tamil Nadu,Tiruchirappalli,Annual,Sugarcane,1431,1046,32.1,Sandy,Drip,129.3,62.23,89057.22
+286,2016,Punjab,Bathinda,Kharif,Cotton,468,542.7,29,Laterite,Borewell,130.2,1.89,883.43
+287,2019,Telangana,Warangal,Kharif,Millets,2340,336.1,18.2,Sandy,Drip,168.6,1.5,3516.13
+288,2018,Rajasthan,Udaipur,Rabi,Pulses,2575,345.8,25.2,Alluvial,Borewell,52.8,0.95,2442.98
+289,2021,Punjab,Patiala,Rabi,Wheat,4790,295.7,30.1,Laterite,Canal,43.6,2.62,12527.63
+290,2015,Tamil Nadu,Salem,Rabi,Rice,616,560,33.9,Alluvial,Borewell,55.1,3.28,2021.53
+291,2021,Uttar Pradesh,Prayagraj,Rabi,Wheat,551,368.3,28.5,Alluvial,Rainfed,148.2,2.95,1627.82
+292,2022,Rajasthan,Kota,Kharif,Pulses,301,284.8,22.8,Sandy,Canal,144.8,0.97,292.54
+293,2025,Telangana,Nizamabad,Kharif,Soybean,2534,589,20.5,Red,Borewell,158.2,1.59,4034.26
+294,2018,Karnataka,Belagavi,Annual,Sugarcane,2700,939.1,23.3,Laterite,Canal,139.6,71.49,193032
+295,2025,Uttar Pradesh,Kanpur,Annual,Sugarcane,3949,1285.8,24.5,Black,Borewell,84.9,44.87,177203.1
+296,2023,Maharashtra,Pune,Rabi,Maize,4857,565.8,32.8,Black,Canal,152.9,3.06,14856.08
+297,2017,Punjab,Ludhiana,Rabi,Pulses,2020,347.7,23,Red,Rainfed,78.6,0.88,1780.58
+298,2016,Andhra Pradesh,Krishna,Annual,Sugarcane,3590,969.4,28.3,Laterite,Borewell,170.2,57.34,205849.08
+299,2023,Rajasthan,Ajmer,Kharif,Rice,1164,765.5,22.6,Black,Rainfed,49,3.38,3930.76
+300,2019,Rajasthan,Jaipur,Rabi,Pulses,2446,412.5,25.6,Red,Borewell,147.1,0.84,2055.27
+301,2020,Punjab,Amritsar,Rabi,Wheat,2786,290.6,27.9,Red,Borewell,85.6,3.07,8543.22
+302,2020,Rajasthan,Udaipur,Kharif,Rice,394,537.6,20.8,Sandy,Rainfed,181.7,2.9,1144.27
+303,2024,Tamil Nadu,Madurai,Annual,Sugarcane,779,1294.5,23.6,Sandy,Rainfed,115.5,44.67,34798.31
+304,2018,Rajasthan,Udaipur,Kharif,Pulses,4451,247.1,16.1,Laterite,Canal,90.6,0.96,4285.96
+305,2020,Uttar Pradesh,Agra,Kharif,Pulses,1024,352.2,28.5,Sandy,Rainfed,120.3,0.94,959.69
+306,2021,Telangana,Nizamabad,Rabi,Millets,376,329.1,27.7,Black,Rainfed,78.9,1.29,485.31
+307,2024,Tamil Nadu,Erode,Rabi,Rice,2954,544.4,22.1,Sandy,Borewell,139.6,3.5,10327.53
+308,2019,Uttar Pradesh,Lucknow,Annual,Sugarcane,186,934.6,27.7,Alluvial,Borewell,42.4,65.01,12092.54
+309,2018,Punjab,Jalandhar,Kharif,Soybean,4690,235.5,25.1,Sandy,Rainfed,171.8,0.86,4027.3
+310,2015,Uttar Pradesh,Bareilly,Rabi,Rice,4833,548.5,21.3,Laterite,Borewell,61.3,3.17,15333.94
+311,2021,Karnataka,Ballari,Kharif,Soybean,3730,418.2,24.5,Laterite,Borewell,217.5,1.2,4483.56
+312,2017,Telangana,Mahabubnagar,Kharif,Rice,548,561.6,22.2,Sandy,Drip,153.7,3.8,2083.21
+313,2021,Tamil Nadu,Thanjavur,Rabi,Groundnut,2787,481.1,28.8,Sandy,Borewell,201.2,1.82,5063.55
+314,2015,Telangana,Khammam,Kharif,Rice,350,1024.8,22,Sandy,Canal,168.6,2.99,1046.64
+315,2022,Uttar Pradesh,Varanasi,Rabi,Pulses,4004,370.2,26.6,Black,Borewell,100.1,1.06,4227.23
+316,2016,Uttar Pradesh,Prayagraj,Kharif,Maize,4108,490.1,31.6,Sandy,Borewell,156.6,2.85,11710.86
+317,2020,Rajasthan,Kota,Rabi,Millets,2863,394,23.6,Laterite,Borewell,216.7,1.26,3594.64
+318,2018,Tamil Nadu,Coimbatore,Annual,Sugarcane,4416,528.4,29.8,Alluvial,Canal,171.3,56.53,249624.61
+319,2025,Punjab,Firozpur,Kharif,Cotton,2990,706,31.4,Alluvial,Borewell,189.6,1.62,4832.88
+320,2022,Telangana,Nizamabad,Rabi,Wheat,4914,429.6,24.4,Black,Borewell,180.8,3.36,16498.95
+321,2015,Punjab,Amritsar,Kharif,Cotton,3526,680,33.9,Sandy,Borewell,159.2,1.4,4923.36
+322,2021,Uttar Pradesh,Prayagraj,Rabi,Rice,1090,893.1,31.8,Laterite,Drip,137.5,3.47,3786.9
+323,2022,Maharashtra,Nashik,Annual,Sugarcane,715,684.3,23.5,Alluvial,Drip,196.4,66.98,47889.52
+324,2016,Karnataka,Mysuru,Rabi,Wheat,470,467.2,31.6,Black,Borewell,164.6,2.69,1262.12
+325,2019,Uttar Pradesh,Kanpur,Rabi,Rice,1022,431.8,29.8,Sandy,Rainfed,180,2.98,3050.24
+326,2015,Uttar Pradesh,Varanasi,Rabi,Groundnut,4587,516.9,20,Red,Rainfed,117.2,1.4,6440.6
+327,2022,Rajasthan,Bikaner,Kharif,Soybean,4272,644.2,28.4,Alluvial,Rainfed,167.2,1.42,6060.94
+328,2025,Karnataka,Dharwad,Kharif,Maize,4546,489.3,24.7,Black,Drip,200.5,4.01,18247.8
+329,2020,Uttar Pradesh,Kanpur,Kharif,Groundnut,265,371,32,Alluvial,Canal,208.9,1.68,445.41
+330,2018,Tamil Nadu,Madurai,Kharif,Maize,1696,648.1,30.6,Red,Rainfed,110.1,2.26,3836.3
+331,2021,Karnataka,Belagavi,Rabi,Wheat,2687,284.1,27.6,Alluvial,Borewell,128.9,2.94,7912.17
+332,2023,Andhra Pradesh,Anantapur,Annual,Sugarcane,1137,886.9,24.1,Red,Borewell,195.5,60.33,68597.88
+333,2023,Karnataka,Raichur,Kharif,Groundnut,670,586.8,33,Red,Borewell,174.6,1.81,1214.48
+334,2020,Telangana,Nizamabad,Annual,Sugarcane,3925,1088.6,29.1,Red,Canal,180.2,65.36,256553.06
+335,2018,Karnataka,Dharwad,Rabi,Millets,2790,383.8,27.6,Sandy,Canal,143.1,1.29,3595.46
+336,2022,Maharashtra,Amravati,Rabi,Millets,3982,287.8,26.3,Laterite,Drip,198.9,1.42,5639.79
+337,2025,Punjab,Jalandhar,Rabi,Millets,3427,372.2,27.3,Sandy,Canal,100.4,1.23,4211.6
+338,2024,Punjab,Bathinda,Kharif,Rice,1024,620.6,23.6,Red,Borewell,70.3,3.79,3879.23
+339,2018,Andhra Pradesh,Prakasam,Rabi,Millets,4978,218.9,24.9,Alluvial,Borewell,93.9,1.01,5048.48
+340,2015,Maharashtra,Nashik,Kharif,Soybean,736,712.3,33.8,Sandy,Borewell,180.5,1.19,872.57
+341,2015,Rajasthan,Udaipur,Kharif,Soybean,3236,351.1,25.2,Black,Rainfed,90.7,0.95,3085.67
+342,2016,Uttar Pradesh,Prayagraj,Rabi,Pulses,3542,311.5,22.3,Black,Drip,42.8,1.1,3913.89
+343,2017,Tamil Nadu,Thanjavur,Annual,Sugarcane,326,839.7,28.1,Laterite,Borewell,132.5,76.05,24793.3
+344,2020,Tamil Nadu,Thanjavur,Kharif,Rice,1981,612.3,31.5,Laterite,Borewell,107,3.92,7757.26
+345,2019,Uttar Pradesh,Bareilly,Rabi,Millets,1857,347.6,32.3,Red,Drip,148.7,1.44,2680.32
+346,2017,Punjab,Firozpur,Rabi,Pulses,3053,252.6,26,Black,Rainfed,143.2,0.83,2532.75
+347,2019,Maharashtra,Pune,Kharif,Pulses,2909,467,29.8,Laterite,Canal,196.7,0.84,2439.73
+348,2018,Maharashtra,Kolhapur,Rabi,Rice,4676,452.4,28.1,Red,Canal,210.7,3.9,18249.63
+349,2019,Rajasthan,Udaipur,Kharif,Soybean,1620,698,31.5,Red,Rainfed,132.3,1.21,1952.18
+350,2025,Tamil Nadu,Madurai,Rabi,Wheat,1747,433.1,17.4,Laterite,Rainfed,124.3,2.65,4629.5
+351,2018,Tamil Nadu,Erode,Kharif,Rice,2796,608.9,28.3,Alluvial,Rainfed,78.8,3.18,8888.87
+352,2022,Maharashtra,Pune,Kharif,Pulses,171,314.8,29.2,Alluvial,Rainfed,110.6,0.99,168.55
+353,2024,Karnataka,Mysuru,Rabi,Rice,832,678.9,28,Red,Borewell,174.9,3.85,3204.69
+354,2017,Rajasthan,Jaipur,Kharif,Rice,2286,507.5,21.5,Red,Rainfed,208,2.68,6132.28
+355,2020,Telangana,Mahabubnagar,Rabi,Maize,1151,536.4,29.4,Red,Drip,101.2,3.48,4000.36
+356,2021,Andhra Pradesh,Guntur,Rabi,Pulses,2847,260.1,26,Alluvial,Rainfed,56,1.02,2892.66
+357,2016,Telangana,Nizamabad,Rabi,Millets,4105,375,21.8,Sandy,Borewell,130.3,1.19,4879.5
+358,2018,Uttar Pradesh,Bareilly,Rabi,Pulses,3181,263.3,23.1,Alluvial,Rainfed,50,0.73,2330.42
+359,2024,Maharashtra,Pune,Rabi,Groundnut,2498,614.2,23.8,Laterite,Borewell,164.4,1.54,3856.27
+360,2019,Telangana,Karimnagar,Rabi,Maize,727,538.8,24.4,Black,Canal,162.8,3.87,2812.31
+361,2022,Uttar Pradesh,Varanasi,Kharif,Pulses,988,194.2,21.5,Alluvial,Borewell,171.9,0.88,872.52
+362,2022,Andhra Pradesh,Chittoor,Rabi,Maize,1786,418.4,34.5,Red,Borewell,41.9,3.24,5795.34
+363,2019,Tamil Nadu,Coimbatore,Kharif,Groundnut,4638,495.7,23.9,Black,Rainfed,151,1.85,8562.09
+364,2024,Maharashtra,Kolhapur,Kharif,Soybean,2864,369.7,29.6,Sandy,Canal,116.2,1.31,3740.27
+365,2016,Punjab,Amritsar,Rabi,Groundnut,1687,482.5,24.9,Sandy,Rainfed,85.5,1.75,2953.11
+366,2015,Uttar Pradesh,Agra,Kharif,Groundnut,4217,251.4,25.5,Black,Borewell,77.6,1.29,5440.45
+367,2017,Telangana,Mahabubnagar,Annual,Sugarcane,1362,945.4,22.1,Sandy,Borewell,122.6,61.49,83749.57
+368,2019,Karnataka,Dharwad,Annual,Sugarcane,506,799.1,27.2,Sandy,Borewell,85,69.92,35378.09
+369,2015,Andhra Pradesh,Krishna,Kharif,Cotton,4721,496.8,29.5,Laterite,Canal,150.3,1.96,9269.92
+370,2017,Maharashtra,Nagpur,Kharif,Rice,2039,337.5,32.1,Laterite,Rainfed,150.1,2.33,4748.01
+371,2018,Karnataka,Mandya,Kharif,Rice,3312,983.7,35.8,Sandy,Canal,111.1,2.43,8044.55
+372,2024,Karnataka,Dharwad,Kharif,Cotton,1407,774,27.7,Alluvial,Canal,130.4,1.55,2181.33
+373,2022,Telangana,Khammam,Rabi,Wheat,3675,211.5,24,Sandy,Rainfed,112.6,2.12,7773.91
+374,2021,Andhra Pradesh,Krishna,Kharif,Groundnut,3781,448.5,28.2,Sandy,Canal,209.8,1.84,6942.77
+375,2020,Maharashtra,Kolhapur,Kharif,Soybean,387,393.1,25.1,Red,Borewell,95.5,1.24,478.2
+376,2025,Rajasthan,Udaipur,Rabi,Maize,1575,420.5,24,Alluvial,Drip,112,3.6,5677.75
+377,2021,Karnataka,Raichur,Kharif,Maize,3441,419.7,28.6,Black,Canal,51.8,3.66,12604.77
+378,2023,Tamil Nadu,Erode,Kharif,Soybean,3071,624.7,22.3,Black,Rainfed,170.4,1.29,3948.86
+379,2017,Uttar Pradesh,Lucknow,Rabi,Pulses,215,261.8,26,Alluvial,Canal,190.3,1.21,260.4
+380,2023,Punjab,Ludhiana,Rabi,Wheat,1077,243.6,32.9,Sandy,Rainfed,210.4,2.17,2342
+381,2021,Karnataka,Mandya,Kharif,Cotton,2430,739.3,28.8,Laterite,Borewell,189.8,1.59,3851.94
+382,2019,Tamil Nadu,Thanjavur,Rabi,Millets,619,197.1,24.3,Laterite,Borewell,90.4,0.99,614.75
+383,2019,Punjab,Jalandhar,Kharif,Cotton,4390,784.4,26.3,Laterite,Canal,143,1.56,6854.33
+384,2023,Karnataka,Dharwad,Kharif,Cotton,1287,430.3,25.9,Red,Canal,46.2,1.59,2041.64
+385,2018,Punjab,Amritsar,Annual,Sugarcane,2681,649.7,22.1,Black,Canal,114,53.92,144566.96
+386,2023,Punjab,Ludhiana,Kharif,Cotton,1411,504.6,32.3,Laterite,Rainfed,136.3,1.24,1745.98
+387,2024,Maharashtra,Solapur,Rabi,Wheat,4813,324.5,27.1,Red,Rainfed,158.7,2.52,12109.09
+388,2016,Tamil Nadu,Salem,Rabi,Groundnut,4382,317.9,18.5,Laterite,Rainfed,130.1,1.34,5873.94
+389,2025,Punjab,Jalandhar,Kharif,Millets,986,366.7,23.2,Red,Borewell,124.8,1.32,1305.08
+390,2021,Rajasthan,Jaipur,Rabi,Groundnut,1231,465.4,25.7,Red,Rainfed,192.4,1.61,1986.63
+391,2016,Andhra Pradesh,East Godavari,Rabi,Rice,4851,506.1,25.5,Sandy,Borewell,209.8,3.33,16135.07
+392,2024,Rajasthan,Jaipur,Annual,Sugarcane,2450,1112.4,28.5,Alluvial,Canal,219.4,56.78,139114.91
+393,2024,Telangana,Karimnagar,Kharif,Millets,4396,442,29.2,Laterite,Borewell,179.9,1.25,5492.82
+394,2023,Maharashtra,Amravati,Rabi,Wheat,626,437.1,31.2,Sandy,Canal,105.3,3.16,1979.09
+395,2016,Tamil Nadu,Madurai,Rabi,Millets,2461,267.8,25.7,Laterite,Drip,170.8,1.41,3458.87
+396,2015,Tamil Nadu,Erode,Kharif,Millets,3088,378.3,27.7,Alluvial,Borewell,176.1,1.18,3653.53
+397,2017,Tamil Nadu,Erode,Rabi,Groundnut,3914,603,21.4,Sandy,Borewell,64.2,1.43,5609.89
+398,2019,Telangana,Mahabubnagar,Rabi,Wheat,2256,446.6,30.5,Alluvial,Borewell,200.4,2.58,5811.05
+399,2020,Karnataka,Mysuru,Rabi,Maize,2337,628.7,27.6,Alluvial,Rainfed,201.8,2.66,6221.32
+400,2016,Punjab,Ludhiana,Annual,Sugarcane,4703,793,20.9,Black,Borewell,57.4,55.84,262638.67
+401,2020,Punjab,Firozpur,Kharif,Millets,2675,306.7,31.6,Black,Borewell,161.1,1.33,3546.41
+402,2017,Tamil Nadu,Salem,Kharif,Rice,2856,897.7,30.2,Sandy,Borewell,184.7,3.03,8640.71
+403,2018,Karnataka,Ballari,Rabi,Pulses,2258,369,28.6,Alluvial,Canal,139.2,1,2247.62
+404,2025,Karnataka,Mandya,Kharif,Soybean,1023,688.8,32.4,Alluvial,Borewell,138,1.21,1235.96
+405,2016,Andhra Pradesh,Krishna,Annual,Sugarcane,4622,766.6,20.1,Laterite,Borewell,150.5,67.3,311060.02
+406,2020,Rajasthan,Udaipur,Kharif,Cotton,2066,719.4,21,Sandy,Drip,166.1,1.62,3338.52
+407,2019,Maharashtra,Nagpur,Kharif,Maize,4241,535.2,27.8,Sandy,Rainfed,166.4,2.78,11803.03
+408,2024,Uttar Pradesh,Varanasi,Kharif,Rice,2670,767,17.5,Sandy,Canal,145.2,3.82,10203.78
+409,2017,Andhra Pradesh,Guntur,Annual,Sugarcane,2929,990.7,22.6,Black,Canal,60.5,74.41,217941.58
+410,2017,Tamil Nadu,Tiruchirappalli,Kharif,Millets,2765,466.5,33.7,Laterite,Borewell,122,1.04,2885.12
+411,2015,Punjab,Firozpur,Rabi,Rice,1292,568.5,23.6,Sandy,Canal,196.3,3.52,4545.5
+412,2018,Maharashtra,Solapur,Rabi,Wheat,1012,558.7,31.1,Laterite,Borewell,147.1,2.82,2851.21
+413,2018,Karnataka,Raichur,Kharif,Millets,855,359.5,23.4,Black,Borewell,93.3,1.2,1027.93
+414,2019,Punjab,Patiala,Kharif,Cotton,3722,695.5,28.4,Alluvial,Rainfed,204.8,1.27,4735.13
+415,2015,Andhra Pradesh,Chittoor,Kharif,Soybean,2530,673.9,23.3,Alluvial,Borewell,144.5,1.54,3898.64
+416,2019,Telangana,Karimnagar,Rabi,Rice,1647,565.6,30.8,Sandy,Borewell,155.9,3.48,5738.45
+417,2025,Uttar Pradesh,Agra,Kharif,Maize,1871,540.1,28,Laterite,Canal,187.7,3.81,7124.81
+418,2022,Andhra Pradesh,Anantapur,Rabi,Rice,1573,713.5,32,Black,Borewell,42.6,3.35,5275.87
+419,2017,Punjab,Firozpur,Kharif,Soybean,1754,546,26.9,Sandy,Rainfed,177.5,1.26,2212.74
+420,2024,Andhra Pradesh,East Godavari,Kharif,Soybean,3954,656.9,24.1,Sandy,Borewell,49.2,1.36,5364.56
+421,2022,Tamil Nadu,Coimbatore,Kharif,Maize,4186,487.2,20.7,Alluvial,Canal,52.8,3.42,14335.27
+422,2019,Tamil Nadu,Salem,Rabi,Pulses,1116,125.2,33.1,Red,Drip,191.6,0.7,780.4
+423,2024,Telangana,Karimnagar,Kharif,Pulses,1617,191.9,27.5,Black,Canal,164.3,0.98,1586.04
+424,2025,Telangana,Karimnagar,Rabi,Wheat,3615,526,23.7,Black,Borewell,44.3,2.56,9264.05
+425,2017,Uttar Pradesh,Lucknow,Rabi,Wheat,3069,561.4,30,Sandy,Canal,57.5,2.38,7304.02
+426,2024,Punjab,Amritsar,Rabi,Wheat,2138,389.8,23.6,Laterite,Canal,90.5,2.96,6318.67
+427,2019,Karnataka,Belagavi,Kharif,Maize,4569,491.5,34.9,Black,Borewell,216.1,2.89,13223.02
+428,2021,Uttar Pradesh,Kanpur,Rabi,Wheat,3903,578.2,19.1,Alluvial,Borewell,52.2,2.11,8250.55
+429,2017,Tamil Nadu,Madurai,Rabi,Maize,1291,256.9,32,Laterite,Drip,64.3,2.73,3525.77
+430,2021,Maharashtra,Solapur,Rabi,Millets,4186,216.8,35.5,Sandy,Drip,77.5,1.02,4288.93
+431,2025,Rajasthan,Udaipur,Kharif,Soybean,3829,444.2,28.2,Black,Canal,96.7,1.22,4666.96
+432,2024,Rajasthan,Udaipur,Kharif,Millets,1173,353.6,26.5,Alluvial,Rainfed,142.1,1.33,1555.52
+433,2018,Andhra Pradesh,Chittoor,Kharif,Rice,3929,908.8,20.4,Black,Canal,97.4,2.93,11529.25
+434,2020,Karnataka,Mysuru,Annual,Sugarcane,1198,1026.8,27.6,Sandy,Borewell,56.5,67.84,81269.52
+435,2017,Telangana,Nizamabad,Kharif,Millets,2849,246.5,30.8,Black,Drip,143.9,1.35,3837.31
+436,2017,Andhra Pradesh,Chittoor,Kharif,Maize,4723,386.6,23.1,Red,Canal,88.4,2.79,13156.76
+437,2023,Punjab,Amritsar,Rabi,Wheat,144,276.2,35.4,Black,Canal,55.8,2.21,317.72
+438,2016,Uttar Pradesh,Lucknow,Kharif,Cotton,2747,700,25.2,Laterite,Rainfed,160.4,1.43,3936.73
+439,2018,Maharashtra,Pune,Kharif,Maize,3432,709.4,30.4,Red,Rainfed,43.4,2.43,8332.01
+440,2023,Tamil Nadu,Thanjavur,Kharif,Millets,1240,210.4,22.2,Laterite,Rainfed,176.8,0.85,1058.11
+441,2021,Rajasthan,Ajmer,Kharif,Soybean,1931,396.7,20.7,Sandy,Rainfed,164.5,1.13,2180.6
+442,2023,Maharashtra,Pune,Rabi,Wheat,3184,598,22.3,Alluvial,Borewell,116.9,2.46,7822.88
+443,2025,Rajasthan,Bikaner,Rabi,Maize,1590,590.4,27.2,Black,Borewell,175.2,3.59,5700.49
+444,2020,Punjab,Firozpur,Kharif,Rice,2452,646.7,23.7,Alluvial,Canal,97,4.4,10779.33
+445,2025,Andhra Pradesh,Guntur,Kharif,Soybean,2693,657.7,25.9,Red,Drip,162.9,1.44,3870.35
+446,2024,Telangana,Mahabubnagar,Kharif,Millets,3554,322.3,23.7,Alluvial,Canal,40.9,1.33,4719.54
+447,2022,Rajasthan,Bikaner,Annual,Sugarcane,1994,1044.8,29.7,Laterite,Borewell,181,68.67,136929.64
+448,2020,Tamil Nadu,Thanjavur,Rabi,Millets,4903,463.5,33,Sandy,Canal,169.1,1.11,5443.68
+449,2023,Uttar Pradesh,Varanasi,Kharif,Soybean,789,792.9,18.7,Alluvial,Rainfed,123,1.07,846.25
+450,2017,Rajasthan,Udaipur,Kharif,Cotton,215,774.1,25.7,Sandy,Borewell,198.3,1.49,321.09
+451,2020,Punjab,Amritsar,Rabi,Wheat,4913,372.5,26.1,Alluvial,Rainfed,153.6,2.43,11937.43
+452,2022,Karnataka,Ballari,Rabi,Pulses,451,294.2,27.6,Red,Borewell,104.3,1.05,473.76
+453,2021,Andhra Pradesh,Krishna,Annual,Sugarcane,4098,856.5,22.6,Alluvial,Canal,53.2,71.03,291093.35
+454,2019,Rajasthan,Sri Ganganagar,Kharif,Cotton,4952,602.2,31,Alluvial,Borewell,86.2,1.78,8824.51
+455,2015,Tamil Nadu,Madurai,Annual,Sugarcane,3831,742.2,38.9,Red,Canal,40,63.93,244925.28
+456,2016,Rajasthan,Sri Ganganagar,Annual,Sugarcane,1562,1064.2,31.1,Black,Rainfed,207.2,51.57,80546.4
+457,2016,Rajasthan,Ajmer,Kharif,Cotton,1806,654.8,31.5,Red,Canal,46.4,1.84,3315.18
+458,2016,Rajasthan,Kota,Kharif,Soybean,3021,704,20.6,Red,Borewell,173,1.35,4071.3
+459,2016,Tamil Nadu,Madurai,Kharif,Rice,1018,636.4,27.2,Red,Borewell,218,4,4076.94
+460,2024,Andhra Pradesh,Prakasam,Annual,Sugarcane,292,852.4,31.1,Red,Canal,167.1,64.67,18884.05
+461,2017,Karnataka,Dharwad,Rabi,Maize,3369,610.2,24.8,Black,Drip,64.7,3.26,10997.85
+462,2023,Punjab,Patiala,Annual,Sugarcane,1050,777.7,21.4,Sandy,Drip,203,65.05,68300.15
+463,2015,Telangana,Karimnagar,Rabi,Wheat,2259,524,21.6,Alluvial,Rainfed,62.3,1.98,4469.82
+464,2019,Karnataka,Mandya,Rabi,Rice,3648,894.5,26.2,Laterite,Borewell,126.9,2.92,10659.21
+465,2024,Maharashtra,Pune,Kharif,Cotton,4060,560.5,38.2,Red,Borewell,110.8,1.59,6468.69
+466,2024,Punjab,Patiala,Rabi,Wheat,2581,423.2,18.1,Black,Rainfed,68,2.54,6559.23
+467,2020,Uttar Pradesh,Kanpur,Rabi,Wheat,3268,384.6,26.4,Sandy,Drip,60.8,3.47,11354.57
+468,2021,Andhra Pradesh,Krishna,Rabi,Rice,905,838,24.5,Red,Rainfed,153.1,2.98,2695.67
+469,2021,Telangana,Warangal,Kharif,Pulses,2662,335.6,31,Alluvial,Canal,100.3,0.97,2580.41
+470,2024,Rajasthan,Sri Ganganagar,Kharif,Soybean,2730,670.9,31.2,Sandy,Borewell,63.8,1.23,3370.38
+471,2022,Punjab,Amritsar,Rabi,Maize,819,391.6,33.3,Alluvial,Rainfed,74.8,2.48,2032.8
+472,2016,Andhra Pradesh,Krishna,Kharif,Cotton,2160,706.8,22,Red,Borewell,50,1.5,3241.39
+473,2023,Karnataka,Raichur,Annual,Sugarcane,4624,617.1,28,Black,Canal,203.9,51.06,236080.11
+474,2018,Telangana,Nizamabad,Kharif,Millets,4312,494.4,34.3,Red,Rainfed,138.4,0.97,4167.6
+475,2024,Rajasthan,Kota,Rabi,Rice,595,765.3,19.7,Black,Borewell,176.8,3.2,1901.26
+476,2022,Andhra Pradesh,East Godavari,Kharif,Cotton,4754,520.9,19.5,Sandy,Drip,55.7,1.71,8130.55
+477,2019,Andhra Pradesh,Krishna,Rabi,Rice,3302,749.9,25.9,Black,Borewell,117.6,3.47,11469.21
+478,2024,Karnataka,Belagavi,Kharif,Rice,3526,412.1,31.7,Laterite,Rainfed,192.1,2.56,9033.84
+479,2024,Telangana,Warangal,Annual,Sugarcane,3328,1347.2,23.9,Laterite,Canal,174.9,51.96,172929.42
+480,2015,Andhra Pradesh,Prakasam,Kharif,Soybean,4733,589.9,25.6,Alluvial,Drip,168.7,1.8,8496.6
+481,2024,Uttar Pradesh,Varanasi,Rabi,Rice,655,973.8,30.1,Red,Rainfed,132,2.4,1571.8
+482,2021,Rajasthan,Kota,Kharif,Pulses,1399,344.3,33.9,Laterite,Rainfed,194,0.8,1112.55
+483,2018,Karnataka,Mandya,Annual,Sugarcane,377,590,31.6,Alluvial,Borewell,196.5,47.8,18020.57
+484,2017,Rajasthan,Udaipur,Kharif,Groundnut,4573,566.9,30.1,Black,Rainfed,75.4,1.39,6368.77
+485,2020,Tamil Nadu,Coimbatore,Kharif,Pulses,1741,251.7,35.5,Red,Drip,135,0.9,1568.78
+486,2017,Telangana,Karimnagar,Kharif,Rice,3105,638.8,33.2,Laterite,Canal,167.3,4.1,12720.37
+487,2019,Telangana,Nizamabad,Rabi,Wheat,118,427.1,27.6,Red,Canal,99.1,3.29,388.62
+488,2022,Telangana,Nizamabad,Rabi,Pulses,1774,327.4,24,Sandy,Rainfed,73.4,0.78,1376.11
+489,2016,Maharashtra,Solapur,Annual,Sugarcane,953,508.9,30.4,Laterite,Drip,130.4,52.18,49727.14
+490,2020,Uttar Pradesh,Bareilly,Annual,Sugarcane,2703,927.4,24.7,Alluvial,Canal,215,70.67,191020.96
+491,2022,Tamil Nadu,Thanjavur,Kharif,Soybean,900,499.6,26.4,Black,Borewell,192.2,1.22,1096.92
+492,2024,Andhra Pradesh,Prakasam,Rabi,Pulses,3965,395.6,26.2,Black,Canal,190.1,0.83,3306.78
+493,2016,Rajasthan,Jaipur,Rabi,Groundnut,2376,473.5,24.5,Red,Borewell,157.7,1.88,4457.67
+494,2021,Rajasthan,Bikaner,Rabi,Groundnut,535,554.7,39.4,Sandy,Rainfed,91.3,1.42,761.29
+495,2021,Tamil Nadu,Tiruchirappalli,Rabi,Maize,3481,395.5,26.1,Red,Drip,149.9,3.35,11665.55
+496,2022,Tamil Nadu,Salem,Rabi,Maize,3038,529,25.1,Red,Canal,213.5,3.35,10173.12
+497,2019,Uttar Pradesh,Varanasi,Rabi,Wheat,4477,381.7,31.2,Laterite,Rainfed,68.9,2.57,11485.49
+498,2023,Karnataka,Mandya,Kharif,Cotton,754,642.4,32.1,Laterite,Rainfed,125.3,1.24,933.28
+499,2019,Andhra Pradesh,Chittoor,Kharif,Groundnut,1108,449.4,25.4,Sandy,Drip,190.9,2.23,2472.88
+500,2015,Andhra Pradesh,Guntur,Rabi,Groundnut,1855,210.1,27.6,Laterite,Borewell,189.3,1.24,2298.26
+501,2024,Uttar Pradesh,Agra,Kharif,Soybean,1488,455,33.4,Red,Borewell,153.1,1.12,1664.25
+502,2025,Telangana,Khammam,Rabi,Maize,754,485.5,27.3,Alluvial,Canal,76.6,4.09,3085.86
+503,2023,Punjab,Amritsar,Rabi,Millets,4410,443.3,24.8,Alluvial,Rainfed,193.1,1.1,4830.47
+504,2016,Uttar Pradesh,Lucknow,Kharif,Soybean,4300,560.7,38.6,Sandy,Canal,92.5,1.47,6335.45
+505,2024,Maharashtra,Solapur,Rabi,Wheat,3011,313,19.4,Alluvial,Drip,143.9,2.84,8545.75
+506,2021,Andhra Pradesh,Guntur,Annual,Sugarcane,1273,859.2,25.2,Laterite,Borewell,41.3,72.01,91672.85
+507,2017,Punjab,Firozpur,Rabi,Millets,4122,369.7,29.2,Black,Rainfed,195.6,1.15,4728.89
+508,2017,Rajasthan,Sri Ganganagar,Kharif,Cotton,3164,625.6,28.7,Red,Rainfed,140.4,1.24,3928.23
+509,2015,Maharashtra,Solapur,Kharif,Groundnut,3157,526.8,31.5,Sandy,Canal,63.2,1.77,5573.74
+510,2023,Maharashtra,Nagpur,Kharif,Soybean,679,750.7,25,Red,Borewell,99.3,1.11,755.42
+511,2025,Andhra Pradesh,Krishna,Annual,Sugarcane,1567,938.8,35.4,Black,Rainfed,90.7,48.94,76683.14
+512,2019,Tamil Nadu,Thanjavur,Kharif,Pulses,3229,293.5,22,Sandy,Drip,122.3,1.03,3339.2
+513,2025,Andhra Pradesh,Guntur,Kharif,Millets,4116,419,27.1,Red,Borewell,210.2,1.1,4533.39
+514,2020,Uttar Pradesh,Varanasi,Kharif,Cotton,793,512.3,29.3,Sandy,Borewell,90.9,1.6,1271.36
+515,2017,Rajasthan,Jaipur,Kharif,Rice,3597,536.5,27.7,Alluvial,Rainfed,104.4,2.74,9857.12
+516,2019,Maharashtra,Kolhapur,Rabi,Wheat,472,498.3,27.7,Black,Rainfed,208.8,2.64,1245.87
+517,2023,Uttar Pradesh,Agra,Kharif,Cotton,1140,553.7,25.1,Laterite,Rainfed,78.4,1.71,1950.6
+518,2015,Uttar Pradesh,Kanpur,Kharif,Soybean,4624,589.9,26.3,Sandy,Borewell,218.3,1.55,7185.08
+519,2017,Telangana,Mahabubnagar,Kharif,Millets,308,363.7,17.6,Alluvial,Borewell,185.8,1.14,351.54
+520,2025,Telangana,Khammam,Rabi,Rice,1950,582.1,24.9,Red,Rainfed,54.3,3.43,6693.14
+521,2022,Karnataka,Mysuru,Rabi,Wheat,2969,440,29.6,Laterite,Canal,122.4,3.07,9112.31
+522,2017,Karnataka,Mysuru,Kharif,Millets,2694,411.8,40,Laterite,Rainfed,98.1,1.05,2819.84
+523,2021,Andhra Pradesh,East Godavari,Annual,Sugarcane,503,829.3,25.9,Black,Borewell,96.8,67.2,33801.54
+524,2024,Tamil Nadu,Erode,Rabi,Wheat,1481,427.9,34.2,Red,Borewell,143.8,3.38,5005.59
+525,2017,Maharashtra,Amravati,Kharif,Pulses,2142,317.3,24.3,Red,Borewell,173.1,0.96,2054.61
+526,2016,Maharashtra,Amravati,Annual,Sugarcane,3528,606.2,26.1,Red,Canal,52.4,59.2,208848.09
+527,2018,Telangana,Khammam,Rabi,Millets,3309,274.2,23.4,Alluvial,Borewell,166.7,1.1,3641.45
+528,2018,Karnataka,Raichur,Rabi,Millets,251,262.4,23,Laterite,Borewell,56.5,1.26,315.46
+529,2015,Tamil Nadu,Salem,Annual,Sugarcane,1867,1028,21.3,Red,Canal,113.7,59.81,111660.51
+530,2025,Karnataka,Belagavi,Annual,Sugarcane,2586,951.6,28.3,Laterite,Rainfed,164.7,67.26,173921.45
+531,2022,Telangana,Warangal,Kharif,Groundnut,4057,304.6,29.3,Alluvial,Borewell,133.3,1.69,6844.54
+532,2016,Tamil Nadu,Madurai,Kharif,Cotton,3883,544.2,25,Sandy,Borewell,72.7,1.78,6926.09
+533,2023,Telangana,Karimnagar,Rabi,Wheat,2858,382.3,18.7,Sandy,Borewell,151.8,2.63,7511.25
+534,2023,Rajasthan,Sri Ganganagar,Kharif,Cotton,3506,675.3,29,Sandy,Rainfed,87.8,1.47,5169.88
+535,2020,Tamil Nadu,Madurai,Annual,Sugarcane,3926,978.4,18.9,Red,Borewell,219.8,56.16,220499.84
+536,2017,Rajasthan,Sri Ganganagar,Annual,Sugarcane,3839,1308.5,28.3,Alluvial,Drip,118.4,49.43,189774.24
+537,2024,Maharashtra,Solapur,Kharif,Soybean,1682,509.4,20.6,Laterite,Rainfed,190.3,1.19,1995.08
+538,2020,Punjab,Patiala,Rabi,Pulses,4832,284.3,21.4,Alluvial,Rainfed,148.5,0.92,4432.85
+539,2021,Uttar Pradesh,Agra,Kharif,Rice,1225,719.7,31.8,Black,Borewell,137.1,3.35,4102.9
+540,2018,Telangana,Warangal,Annual,Sugarcane,2086,867.5,26.5,Laterite,Borewell,188.5,77,160614.03
+541,2024,Andhra Pradesh,Anantapur,Annual,Sugarcane,3285,951.9,18.2,Black,Borewell,204.5,70.76,232449.83
+542,2024,Tamil Nadu,Tiruchirappalli,Kharif,Groundnut,2402,384.9,21.9,Alluvial,Canal,42.1,1.56,3758.84
+543,2021,Punjab,Jalandhar,Rabi,Millets,2894,367.5,24.5,Red,Canal,115.8,1.53,4418.6
+544,2020,Karnataka,Mysuru,Kharif,Groundnut,299,457.6,32.3,Black,Borewell,144.9,1.96,586.97
+545,2018,Andhra Pradesh,Chittoor,Annual,Sugarcane,3033,1013.7,26.4,Black,Rainfed,43.1,49.19,149185.9
+546,2023,Uttar Pradesh,Bareilly,Kharif,Groundnut,3420,316.2,30,Red,Borewell,86.9,1.76,6005.12
+547,2021,Rajasthan,Bikaner,Rabi,Groundnut,1165,388.2,25.5,Red,Rainfed,194.5,1.76,2048.31
+548,2023,Andhra Pradesh,Krishna,Kharif,Cotton,1817,668.8,19.6,Red,Rainfed,180.7,1.35,2448.38
+549,2019,Punjab,Amritsar,Annual,Sugarcane,2551,808.7,30.4,Black,Canal,117.8,57.2,145927.12
+550,2017,Tamil Nadu,Tiruchirappalli,Kharif,Pulses,4241,253.8,30.1,Laterite,Canal,127,0.87,3685.95
+551,2018,Andhra Pradesh,East Godavari,Rabi,Millets,4171,380.4,22.7,Black,Borewell,189.9,1.29,5364.6
+552,2024,Maharashtra,Nagpur,Kharif,Groundnut,1198,371.2,22.3,Red,Canal,189.9,1.71,2048.69
+553,2016,Maharashtra,Pune,Kharif,Rice,2602,685.4,20.3,Sandy,Drip,161.8,3.62,9421.82
+554,2018,Rajasthan,Udaipur,Annual,Sugarcane,2140,1005.7,39.1,Alluvial,Rainfed,65.4,43.75,93630.33
+555,2019,Karnataka,Raichur,Kharif,Cotton,2215,712.9,21.3,Red,Rainfed,162.9,1.28,2836.95
+556,2024,Punjab,Jalandhar,Annual,Sugarcane,1720,983.7,14.5,Alluvial,Rainfed,218.5,44.65,76803.22
+557,2024,Maharashtra,Amravati,Kharif,Rice,3018,520.9,23.7,Alluvial,Drip,108.9,3.84,11575.81
+558,2017,Punjab,Firozpur,Kharif,Soybean,3560,648.9,29.6,Black,Borewell,197.6,1.32,4690.92
+559,2023,Tamil Nadu,Coimbatore,Rabi,Wheat,4827,479.8,31.7,Laterite,Rainfed,66.3,2.68,12955.87
+560,2016,Rajasthan,Udaipur,Kharif,Maize,4257,590.1,27.7,Laterite,Rainfed,219.9,2.51,10685.99
+561,2018,Maharashtra,Amravati,Rabi,Rice,3976,664,26.3,Sandy,Canal,215.9,4.69,18645.13
+562,2016,Rajasthan,Jaipur,Rabi,Maize,2351,428.5,29.8,Sandy,Canal,101.6,3.74,8797.82
+563,2021,Uttar Pradesh,Varanasi,Kharif,Pulses,2822,262.6,30.7,Sandy,Canal,158.4,1.1,3095.27
+564,2019,Punjab,Amritsar,Rabi,Wheat,157,434.7,24.2,Alluvial,Borewell,175.5,3.09,485.57
+565,2021,Punjab,Firozpur,Annual,Sugarcane,4006,898.4,27.7,Sandy,Borewell,110.3,79.02,316538.99
+566,2016,Maharashtra,Pune,Kharif,Cotton,2670,409.2,35.2,Sandy,Rainfed,45.2,1.28,3409.8
+567,2025,Tamil Nadu,Salem,Rabi,Wheat,4450,458.7,21.9,Red,Canal,212.8,3.31,14732.89
+568,2022,Telangana,Nalgonda,Kharif,Groundnut,2358,356.3,37.2,Red,Canal,116.1,1.68,3965.44
+569,2021,Karnataka,Raichur,Kharif,Maize,3818,350.8,28.9,Sandy,Borewell,52.5,2.98,11377.49
+570,2021,Tamil Nadu,Tiruchirappalli,Kharif,Rice,1870,608.9,27.6,Red,Borewell,219.2,3.89,7266.06
+571,2016,Telangana,Warangal,Annual,Sugarcane,1492,1057.3,33.6,Black,Borewell,84.2,66.75,99591.16
+572,2024,Uttar Pradesh,Bareilly,Annual,Sugarcane,4106,936.1,29.6,Alluvial,Canal,107.6,61.24,251460.02
+573,2019,Tamil Nadu,Coimbatore,Rabi,Pulses,3866,262.7,24.9,Red,Drip,208,1.22,4707.25
+574,2024,Karnataka,Ballari,Kharif,Maize,2779,457.9,31.3,Black,Rainfed,117.4,2.62,7285.15
+575,2023,Maharashtra,Solapur,Kharif,Maize,1064,403.7,26.1,Black,Borewell,84.7,3.62,3848.22
+576,2025,Karnataka,Ballari,Kharif,Cotton,1626,604.1,28.7,Laterite,Canal,206.5,1.68,2730.08
+577,2022,Telangana,Nalgonda,Rabi,Wheat,1338,447.1,26.7,Red,Rainfed,150.9,2.34,3127.37
+578,2023,Karnataka,Ballari,Rabi,Wheat,2953,481.6,29.6,Sandy,Rainfed,65.1,2.52,7444.99
+579,2025,Maharashtra,Kolhapur,Kharif,Rice,4875,486.4,24.1,Laterite,Canal,137.6,3.98,19393.8
+580,2019,Tamil Nadu,Thanjavur,Kharif,Groundnut,710,271.2,31.9,Black,Borewell,111.9,1.67,1183.9
+581,2023,Maharashtra,Nagpur,Kharif,Soybean,4171,695.4,27.5,Sandy,Rainfed,42.4,1.21,5051.9
+582,2018,Tamil Nadu,Erode,Annual,Sugarcane,2133,967,24.9,Red,Borewell,66.9,69.65,148563.99
+583,2023,Karnataka,Raichur,Rabi,Maize,2518,638.5,30.1,Red,Rainfed,85.6,2.74,6894.23
+584,2019,Karnataka,Dharwad,Rabi,Groundnut,3643,546.2,28.8,Red,Rainfed,186.7,1.48,5376.42
+585,2023,Tamil Nadu,Coimbatore,Kharif,Soybean,1041,615.1,27.8,Laterite,Canal,169.6,1.35,1409.3
+586,2018,Tamil Nadu,Erode,Rabi,Wheat,4180,302.7,30,Black,Rainfed,184.4,2.21,9254.27
+587,2021,Maharashtra,Nashik,Rabi,Groundnut,627,373.5,26.4,Sandy,Rainfed,59,1.54,962.53
+588,2023,Telangana,Khammam,Kharif,Rice,3150,657.2,29.9,Laterite,Borewell,183.4,3.73,11746.05
+589,2022,Andhra Pradesh,Prakasam,Kharif,Rice,1196,635.5,17.6,Black,Drip,203.5,3.9,4668.14
+590,2024,Andhra Pradesh,Anantapur,Rabi,Pulses,4539,292.4,28.2,Red,Canal,120.5,1.03,4652.73
+591,2017,Punjab,Patiala,Rabi,Millets,3924,257.8,32.4,Black,Canal,129.6,1.09,4294.12
+592,2019,Telangana,Karimnagar,Rabi,Pulses,4454,178.6,26.6,Black,Drip,205.1,0.94,4183.63
+593,2024,Tamil Nadu,Madurai,Rabi,Pulses,3353,330.3,25,Alluvial,Drip,62.8,0.99,3314.32
+594,2020,Rajasthan,Ajmer,Kharif,Millets,4030,402.4,26.1,Red,Canal,204.6,1.33,5362.85
+595,2024,Karnataka,Dharwad,Annual,Sugarcane,3638,856.9,26.3,Alluvial,Drip,184.4,79.2,288135.31
+596,2017,Maharashtra,Amravati,Kharif,Soybean,495,830.4,31.1,Sandy,Rainfed,137.1,0.86,426.52
+597,2018,Andhra Pradesh,Anantapur,Kharif,Cotton,313,572.6,29.7,Red,Borewell,124.8,1.99,622.15
+598,2021,Rajasthan,Bikaner,Rabi,Groundnut,661,472,25.3,Black,Drip,144.4,2.12,1402.77
+599,2025,Tamil Nadu,Tiruchirappalli,Rabi,Millets,394,400,23.5,Alluvial,Rainfed,128.8,1.22,482.21
+600,2019,Rajasthan,Kota,Kharif,Soybean,1383,589.4,23.8,Black,Drip,50.1,1.38,1905.18
+601,2015,Telangana,Nalgonda,Rabi,Rice,2702,386.2,30.5,Sandy,Canal,60.9,3.55,9603.48
+602,2020,Maharashtra,Amravati,Rabi,Rice,3433,593.8,25.9,Red,Drip,40.4,4.23,14519.92
+603,2023,Rajasthan,Jaipur,Rabi,Wheat,1486,438.6,25.1,Sandy,Drip,157,2.89,4293.61
+604,2016,Tamil Nadu,Madurai,Rabi,Wheat,3903,419.5,24,Sandy,Rainfed,83.8,3.07,11965.96
+605,2022,Telangana,Warangal,Rabi,Wheat,3274,392.8,27.2,Sandy,Rainfed,167.3,2.46,8045.5
+606,2020,Uttar Pradesh,Varanasi,Rabi,Groundnut,3815,458.9,24.3,Black,Borewell,204,1.96,7468.64
+607,2017,Punjab,Amritsar,Kharif,Cotton,1363,427.4,18.7,Sandy,Canal,79.8,1.59,2173.11
+608,2023,Telangana,Nalgonda,Rabi,Wheat,2320,480.3,31,Laterite,Borewell,200.5,2.68,6212.61
+609,2017,Karnataka,Mandya,Kharif,Cotton,383,667.3,29.1,Black,Drip,125.1,1.68,643.39
+610,2025,Tamil Nadu,Thanjavur,Rabi,Wheat,4965,486.7,25.7,Alluvial,Borewell,207.1,2.55,12651.61
+611,2021,Telangana,Karimnagar,Rabi,Wheat,811,351.6,21,Laterite,Borewell,184.7,2.76,2240.19
+612,2015,Telangana,Nalgonda,Kharif,Cotton,609,678.1,27.9,Black,Canal,94.5,1.75,1064.08
+613,2018,Andhra Pradesh,Chittoor,Annual,Sugarcane,1877,835.3,30.7,Red,Borewell,180.9,64.35,120779.36
+614,2020,Karnataka,Belagavi,Rabi,Rice,1259,353.7,22.7,Red,Borewell,185.6,2.77,3487.63
+615,2020,Punjab,Firozpur,Kharif,Cotton,2880,584.7,26.3,Sandy,Borewell,96.6,1.54,4430.64
+616,2015,Uttar Pradesh,Kanpur,Kharif,Pulses,1399,255.9,26,Red,Rainfed,96.8,0.93,1295.75
+617,2023,Andhra Pradesh,Guntur,Kharif,Rice,1569,751.7,41,Red,Canal,62.6,3.11,4876.92
+618,2018,Uttar Pradesh,Varanasi,Kharif,Millets,1993,326,32.5,Sandy,Drip,147.3,1.44,2876.85
+619,2025,Karnataka,Dharwad,Kharif,Soybean,4762,562,33.7,Red,Borewell,122.5,1.54,7326.73
+620,2015,Punjab,Bathinda,Rabi,Pulses,2562,450.3,21.4,Alluvial,Rainfed,130.6,0.57,1450.04
+621,2021,Andhra Pradesh,Anantapur,Kharif,Groundnut,4139,650.2,31.3,Black,Canal,173.4,1.76,7266.31
+622,2019,Rajasthan,Kota,Annual,Sugarcane,767,1106.5,33.1,Alluvial,Drip,87.9,67.22,51555.92
+623,2018,Uttar Pradesh,Bareilly,Kharif,Millets,2750,275.7,28.6,Laterite,Borewell,129.7,1.17,3222.91
+624,2025,Punjab,Bathinda,Rabi,Rice,353,698.9,25.8,Black,Rainfed,134.1,2.85,1005.55
+625,2024,Uttar Pradesh,Prayagraj,Rabi,Pulses,4098,362,25.2,Black,Canal,96,1.12,4576.12
+626,2016,Rajasthan,Jaipur,Kharif,Soybean,1074,640.4,27,Alluvial,Canal,100.5,1.56,1670.28
+627,2022,Telangana,Mahabubnagar,Rabi,Groundnut,4028,544.4,20,Alluvial,Borewell,128.3,1.51,6079.14
+628,2019,Uttar Pradesh,Kanpur,Kharif,Cotton,2938,340.3,28,Alluvial,Rainfed,75.7,1.1,3236.9
+629,2022,Andhra Pradesh,East Godavari,Annual,Sugarcane,3970,1051.1,20,Red,Drip,117.5,59.4,235826.68
+630,2017,Uttar Pradesh,Bareilly,Kharif,Pulses,3166,292.4,25.4,Laterite,Rainfed,199,1.06,3363.82
+631,2025,Karnataka,Dharwad,Rabi,Wheat,4638,337.7,30.2,Alluvial,Rainfed,214.4,2.57,11904.43
+632,2022,Andhra Pradesh,Anantapur,Kharif,Groundnut,971,366.6,27.4,Alluvial,Rainfed,104.8,1.48,1436.43
+633,2016,Punjab,Firozpur,Rabi,Millets,2839,255,18.5,Black,Borewell,51.8,1.16,3280.82
+634,2019,Punjab,Ludhiana,Rabi,Rice,392,620.4,31.1,Red,Rainfed,76.2,2.85,1117.36
+635,2017,Andhra Pradesh,East Godavari,Rabi,Pulses,4642,332.1,19.2,Sandy,Drip,163,0.88,4068.93
+636,2021,Rajasthan,Jaipur,Rabi,Wheat,4014,273.8,27.2,Sandy,Rainfed,77.7,2.29,9193.96
+637,2021,Andhra Pradesh,Anantapur,Rabi,Wheat,3764,505.6,31.1,Sandy,Drip,81.9,2.58,9707.33
+638,2023,Uttar Pradesh,Prayagraj,Kharif,Soybean,714,599.9,32,Alluvial,Borewell,149.3,1.3,931
+639,2021,Telangana,Warangal,Kharif,Groundnut,3908,494.5,40.1,Red,Rainfed,175,1.38,5384.68
+640,2017,Tamil Nadu,Erode,Rabi,Rice,2613,739.9,25.4,Black,Borewell,73.1,3.78,9874.59
+641,2020,Tamil Nadu,Erode,Kharif,Cotton,4695,589.7,23.4,Black,Rainfed,139,1.43,6730.69
+642,2022,Rajasthan,Ajmer,Kharif,Rice,1463,745.4,26.1,Alluvial,Drip,209.5,4.21,6157.14
+643,2020,Maharashtra,Nashik,Rabi,Wheat,2705,536.6,22.8,Sandy,Canal,182.3,2.66,7203.32
+644,2015,Rajasthan,Udaipur,Kharif,Maize,1729,586.6,26.1,Laterite,Borewell,205.7,3.27,5650.11
+645,2018,Telangana,Khammam,Kharif,Pulses,4643,306.9,33.2,Red,Borewell,187.3,1.15,5327.2
+646,2021,Maharashtra,Nagpur,Kharif,Soybean,2302,497.8,30.6,Black,Canal,171.1,1.24,2856
+647,2022,Tamil Nadu,Madurai,Kharif,Millets,3017,318.7,15.5,Red,Rainfed,215.1,0.94,2850.96
+648,2021,Uttar Pradesh,Kanpur,Rabi,Wheat,1687,489.9,27.4,Black,Rainfed,100.8,2.85,4815.25
+649,2016,Punjab,Jalandhar,Rabi,Pulses,3401,333.9,20.8,Alluvial,Canal,129.6,0.93,3165.95
+650,2023,Maharashtra,Nashik,Annual,Sugarcane,1685,632.9,25.6,Red,Borewell,72.1,54.05,91074.75
+651,2020,Andhra Pradesh,East Godavari,Kharif,Soybean,2753,545.6,23.7,Red,Borewell,185.5,1.35,3711.23
+652,2020,Tamil Nadu,Coimbatore,Rabi,Millets,3575,434.1,24.5,Sandy,Canal,189.5,1.26,4513.62
+653,2024,Rajasthan,Bikaner,Rabi,Millets,4901,512.8,28.7,Black,Rainfed,43.2,0.9,4409.3
+654,2021,Telangana,Karimnagar,Annual,Sugarcane,2047,694.4,29.9,Red,Rainfed,79.2,54.67,111900.58
+655,2022,Uttar Pradesh,Agra,Kharif,Maize,3424,433.4,31.1,Laterite,Canal,113.2,3.58,12247.19
+656,2019,Telangana,Warangal,Kharif,Cotton,2015,642.5,22.6,Laterite,Canal,42.3,1.45,2930.28
+657,2019,Rajasthan,Sri Ganganagar,Kharif,Soybean,883,564,32.6,Black,Borewell,181.6,1.18,1042.47
+658,2018,Tamil Nadu,Thanjavur,Rabi,Wheat,1205,417.2,26.2,Laterite,Rainfed,167.6,2.51,3025.15
+659,2015,Tamil Nadu,Salem,Rabi,Millets,1590,394.3,32.4,Sandy,Rainfed,198.8,1.05,1669.67
+660,2023,Punjab,Patiala,Kharif,Pulses,1629,180.2,29.4,Laterite,Borewell,190.6,0.87,1410.88
+661,2017,Punjab,Ludhiana,Kharif,Rice,2847,576.7,23.4,Black,Borewell,140.8,3.68,10479.71
+662,2019,Tamil Nadu,Madurai,Kharif,Cotton,4641,565.3,24.5,Alluvial,Borewell,172.6,1.73,8027
+663,2016,Andhra Pradesh,Krishna,Kharif,Soybean,3978,885.5,32.2,Laterite,Rainfed,197.5,1.03,4100.95
+664,2021,Maharashtra,Amravati,Rabi,Rice,2464,534,25.4,Sandy,Borewell,124.1,3.37,8308.68
+665,2016,Punjab,Jalandhar,Kharif,Rice,3056,915.7,32.2,Alluvial,Borewell,181.9,3.24,9895.76
+666,2025,Telangana,Karimnagar,Kharif,Millets,2856,431,29.6,Red,Canal,82.4,1.4,4006.41
+667,2021,Telangana,Nalgonda,Rabi,Pulses,3631,329.4,27.1,Red,Rainfed,75.5,0.84,3034.41
+668,2016,Maharashtra,Pune,Rabi,Groundnut,3501,622.7,20.2,Sandy,Borewell,145.4,1.61,5625.77
+669,2024,Andhra Pradesh,Krishna,Rabi,Wheat,2049,297,17.2,Sandy,Borewell,193.9,2.36,4840.63
+670,2017,Punjab,Ludhiana,Kharif,Maize,1961,620.1,20.4,Black,Drip,154.1,2.63,5151.9
+671,2024,Uttar Pradesh,Lucknow,Kharif,Maize,780,570.9,23,Black,Canal,144.1,3.66,2858.17
+672,2020,Karnataka,Mysuru,Rabi,Groundnut,2629,458.3,32,Red,Canal,127.4,2.04,5367.05
+673,2024,Tamil Nadu,Thanjavur,Kharif,Rice,2586,815.7,27.5,Alluvial,Drip,59.1,4.06,10506.83
+674,2016,Karnataka,Mandya,Kharif,Pulses,1393,363.6,26.9,Red,Canal,184.3,1.03,1430.33
+675,2022,Telangana,Khammam,Rabi,Maize,322,584.4,30.4,Black,Borewell,184.2,2.99,962.12
+676,2025,Uttar Pradesh,Prayagraj,Rabi,Groundnut,1399,406.3,22.7,Alluvial,Rainfed,161,1.54,2156.26
+677,2018,Uttar Pradesh,Bareilly,Rabi,Groundnut,4400,356.8,34,Black,Rainfed,154.9,1.31,5757.63
+678,2017,Tamil Nadu,Erode,Rabi,Maize,3248,510.2,24.3,Red,Borewell,95.8,3.73,12131.03
+679,2015,Telangana,Mahabubnagar,Kharif,Cotton,3060,469.2,30.4,Alluvial,Borewell,41.3,1.77,5423.83
+680,2025,Rajasthan,Sri Ganganagar,Kharif,Groundnut,660,228.2,30.4,Alluvial,Drip,196.7,1.43,946.78
+681,2021,Punjab,Firozpur,Kharif,Rice,4183,669.6,23.6,Black,Borewell,118.5,4.13,17295.32
+682,2022,Telangana,Nizamabad,Annual,Sugarcane,1436,920.6,36.3,Black,Drip,190.3,73.15,105044.41
+683,2023,Punjab,Jalandhar,Kharif,Soybean,1643,570,26.4,Laterite,Borewell,160.1,1.66,2724.76
+684,2025,Telangana,Warangal,Kharif,Pulses,1748,395.4,22.5,Sandy,Borewell,190.5,0.77,1344.8
+685,2023,Uttar Pradesh,Varanasi,Kharif,Groundnut,4236,389.6,24.2,Alluvial,Drip,83.4,1.63,6919.94
+686,2018,Karnataka,Dharwad,Rabi,Rice,3573,627.1,38.3,Alluvial,Rainfed,151,2.54,9074.71
+687,2018,Karnataka,Mysuru,Kharif,Cotton,2145,388.4,36.6,Laterite,Drip,219.4,1.29,2766.04
+688,2019,Punjab,Bathinda,Rabi,Pulses,4321,368,30.1,Black,Canal,120.6,1.07,4617.29
+689,2023,Telangana,Nalgonda,Kharif,Maize,4825,609.4,26.6,Red,Canal,201.9,3.61,17407.12
+690,2021,Rajasthan,Kota,Kharif,Millets,3570,349.8,24.6,Alluvial,Drip,133.9,1.25,4475.65
+691,2015,Punjab,Bathinda,Rabi,Groundnut,423,680.7,31.6,Black,Borewell,41.6,1.37,580.43
+692,2017,Maharashtra,Solapur,Rabi,Wheat,763,482,38.3,Red,Canal,56.4,3.01,2293.82
+693,2024,Maharashtra,Pune,Kharif,Rice,1889,714.6,31.5,Black,Drip,97.9,4.44,8388.74
+694,2018,Punjab,Amritsar,Annual,Sugarcane,3506,996.3,25.5,Laterite,Rainfed,205.3,55.35,194062.57
+695,2019,Punjab,Jalandhar,Kharif,Cotton,3227,416.4,21.6,Red,Rainfed,60.4,1.39,4472.07
+696,2022,Rajasthan,Ajmer,Annual,Sugarcane,4637,921.5,26.2,Black,Borewell,71,75.09,348176.57
+697,2021,Andhra Pradesh,Krishna,Rabi,Millets,1357,401.7,32.3,Sandy,Rainfed,87.7,1.2,1623.86
+698,2018,Karnataka,Ballari,Kharif,Groundnut,4607,563,24.5,Alluvial,Borewell,171.6,1.67,7713.62
+699,2024,Maharashtra,Nashik,Annual,Sugarcane,703,326.7,26.9,Alluvial,Rainfed,63.8,42.81,30098.65
+700,2019,Andhra Pradesh,Chittoor,Kharif,Maize,1854,416,25.8,Sandy,Drip,178.7,3.08,5716.22
+701,2025,Andhra Pradesh,Chittoor,Rabi,Rice,4903,402.6,33,Black,Borewell,204.6,2.64,12938.43
+702,2021,Andhra Pradesh,Prakasam,Kharif,Rice,3674,527.5,23.7,Red,Rainfed,154.5,3.37,12368.31
+703,2017,Uttar Pradesh,Bareilly,Kharif,Rice,4993,241.6,25.1,Alluvial,Borewell,183,2.56,12780.76
+704,2020,Telangana,Khammam,Rabi,Millets,780,440.8,36,Black,Canal,42,1.14,887.98
+705,2022,Punjab,Firozpur,Annual,Sugarcane,1169,1051,18.3,Black,Borewell,48.3,58.72,68644.82
+706,2020,Punjab,Bathinda,Kharif,Pulses,2929,249,35.5,Laterite,Borewell,91.2,0.79,2307.69
+707,2018,Karnataka,Mandya,Rabi,Rice,1280,825.8,26,Alluvial,Borewell,139.4,2.96,3793.56
+708,2023,Punjab,Amritsar,Kharif,Groundnut,238,585.3,24.5,Sandy,Borewell,174.1,1.52,361.55
+709,2024,Karnataka,Mandya,Kharif,Cotton,4520,575.3,24.5,Sandy,Canal,176.5,1.84,8328.73
+710,2023,Uttar Pradesh,Lucknow,Kharif,Rice,4764,397,28.7,Black,Borewell,213.1,3.18,15145.14
+711,2024,Telangana,Warangal,Rabi,Rice,3814,643.5,21.5,Sandy,Drip,184.3,4.17,15892.68
+712,2018,Uttar Pradesh,Varanasi,Kharif,Rice,4629,575.8,30.8,Laterite,Borewell,67.3,3.58,16579.71
+713,2018,Telangana,Nalgonda,Kharif,Soybean,4425,476.5,28.2,Black,Canal,135.8,1.37,6052.4
+714,2020,Tamil Nadu,Tiruchirappalli,Kharif,Maize,2208,413.7,29.7,Black,Canal,50.1,2.81,6205.03
+715,2018,Tamil Nadu,Madurai,Kharif,Soybean,3134,603.9,21.8,Black,Borewell,88.2,1.41,4418.42
+716,2019,Uttar Pradesh,Prayagraj,Kharif,Maize,1748,394.3,29.4,Red,Canal,197.6,3.34,5844.94
+717,2025,Telangana,Nizamabad,Kharif,Cotton,1544,625.4,23.3,Sandy,Borewell,144.2,1.47,2269.38
+718,2024,Rajasthan,Udaipur,Rabi,Wheat,2511,359.4,19.3,Sandy,Canal,54.2,2.83,7102.16
+719,2023,Maharashtra,Solapur,Kharif,Maize,3126,362.5,25.8,Red,Rainfed,144.4,2.66,8327.39
+720,2021,Punjab,Ludhiana,Rabi,Rice,4192,700.2,21.4,Laterite,Rainfed,186.3,2.79,11706.11
+721,2016,Andhra Pradesh,Prakasam,Kharif,Rice,2754,635,21.7,Sandy,Borewell,132.4,3.76,10368.32
+722,2024,Rajasthan,Jaipur,Kharif,Rice,4506,685.4,17.1,Alluvial,Borewell,137.8,3.28,14780.7
+723,2019,Tamil Nadu,Thanjavur,Kharif,Millets,3239,243.6,18.9,Alluvial,Borewell,134.9,1.15,3714.87
+724,2016,Andhra Pradesh,Krishna,Kharif,Millets,2276,244.1,26.2,Alluvial,Canal,201.4,1.11,2517.23
+725,2024,Tamil Nadu,Thanjavur,Rabi,Rice,1981,455.5,32.5,Alluvial,Rainfed,176.9,2.47,4888.24
+726,2023,Tamil Nadu,Salem,Rabi,Groundnut,4795,383.6,27,Laterite,Drip,212.9,1.82,8703.51
+727,2015,Uttar Pradesh,Lucknow,Annual,Sugarcane,4339,1111.9,27.8,Laterite,Rainfed,150.6,50.42,218776.54
+728,2023,Tamil Nadu,Coimbatore,Annual,Sugarcane,964,1314.1,26.8,Red,Borewell,41.4,46.6,44924.67
+729,2017,Maharashtra,Nashik,Rabi,Rice,698,511,30.8,Red,Borewell,213.1,3.53,2467.07
+730,2016,Maharashtra,Amravati,Kharif,Soybean,1731,547.4,29.2,Laterite,Borewell,214.9,1.32,2288.61
+731,2021,Uttar Pradesh,Agra,Rabi,Rice,1284,686.3,23,Laterite,Borewell,174.7,4.08,5241.76
+732,2017,Maharashtra,Nagpur,Rabi,Pulses,627,244.6,32.9,Alluvial,Rainfed,89.3,0.89,558.27
+733,2020,Andhra Pradesh,Chittoor,Kharif,Maize,4612,554.2,30.8,Laterite,Rainfed,189.5,2.59,11954.42
+734,2018,Telangana,Karimnagar,Rabi,Maize,3661,326.7,25.9,Laterite,Rainfed,166.7,2.78,10184.29
+735,2019,Andhra Pradesh,Anantapur,Kharif,Millets,2640,386.6,35.8,Laterite,Borewell,185.9,1.29,3399.29
+736,2015,Karnataka,Raichur,Kharif,Soybean,1154,728.8,27,Black,Rainfed,46.8,1.12,1288.11
+737,2018,Maharashtra,Amravati,Rabi,Rice,4031,714.8,28,Laterite,Rainfed,106.8,3.5,14108.34
+738,2023,Telangana,Warangal,Rabi,Rice,3984,877.4,24.4,Alluvial,Rainfed,120,3.11,12409.09
+739,2015,Tamil Nadu,Salem,Rabi,Wheat,932,506.7,21.5,Red,Rainfed,96.3,2.62,2439.73
+740,2020,Tamil Nadu,Thanjavur,Kharif,Soybean,3596,512.3,22.4,Black,Rainfed,125.1,0.99,3549.74
+741,2025,Tamil Nadu,Erode,Kharif,Rice,3440,678.5,31.9,Black,Rainfed,102.5,3.41,11719.11
+742,2016,Rajasthan,Ajmer,Kharif,Pulses,3200,295,34.5,Black,Borewell,199.5,1.11,3566.91
+743,2021,Karnataka,Ballari,Rabi,Wheat,1689,407.6,25.1,Sandy,Canal,164,3.24,5478.77
+744,2016,Maharashtra,Pune,Rabi,Pulses,1603,354.1,30.7,Laterite,Canal,169.8,0.89,1428.21
+745,2023,Uttar Pradesh,Prayagraj,Kharif,Groundnut,3433,571,21,Red,Rainfed,114.7,1.58,5411.76
+746,2016,Rajasthan,Bikaner,Kharif,Millets,987,407.7,27.1,Black,Drip,53.2,1.19,1172.66
+747,2018,Karnataka,Belagavi,Kharif,Soybean,2310,816.6,28.7,Red,Rainfed,96.1,0.97,2248.78
+748,2017,Telangana,Khammam,Kharif,Pulses,4454,343.7,27.6,Black,Borewell,192.1,1.15,5101.24
+749,2019,Telangana,Nizamabad,Kharif,Rice,3770,586.4,26.4,Laterite,Borewell,41.2,3.81,14345.34
+750,2021,Punjab,Ludhiana,Kharif,Groundnut,1439,543.8,19.7,Sandy,Canal,165.1,1.58,2278.57
+751,2017,Tamil Nadu,Coimbatore,Rabi,Maize,3467,518,22.7,Red,Canal,57.3,3.34,11577.19
+752,2018,Punjab,Patiala,Rabi,Millets,1260,404.4,28,Alluvial,Rainfed,144.4,1,1259.04
+753,2022,Maharashtra,Solapur,Rabi,Millets,278,530,23.1,Black,Canal,42.5,1.13,313.51
+754,2023,Maharashtra,Pune,Rabi,Pulses,1378,198.7,25,Sandy,Rainfed,213,0.79,1089.73
+755,2021,Andhra Pradesh,Anantapur,Kharif,Millets,287,463.4,27.6,Alluvial,Canal,169.4,1.2,343.7
+756,2019,Tamil Nadu,Tiruchirappalli,Kharif,Rice,861,757.5,23.3,Sandy,Rainfed,201.5,3.07,2645.54
+757,2023,Andhra Pradesh,Prakasam,Rabi,Millets,2831,185.3,26.3,Sandy,Canal,144.7,1.09,3094.08
+758,2024,Maharashtra,Pune,Kharif,Cotton,1638,430.8,29.6,Black,Canal,62.1,1.85,3024.71
+759,2016,Tamil Nadu,Erode,Kharif,Groundnut,143,431.3,29.7,Black,Rainfed,126.6,1.59,226.87
+760,2015,Punjab,Jalandhar,Rabi,Wheat,4640,437.7,24.2,Red,Borewell,114.1,3.29,15266.75
+761,2023,Tamil Nadu,Salem,Kharif,Maize,1959,352.3,25.2,Sandy,Canal,122,3.1,6075.67
+762,2017,Uttar Pradesh,Lucknow,Rabi,Pulses,3846,325.9,23.4,Sandy,Rainfed,189.8,0.88,3385.43
+763,2023,Punjab,Jalandhar,Kharif,Cotton,3137,395.4,30.4,Laterite,Borewell,129.2,1.45,4554.03
+764,2025,Rajasthan,Bikaner,Kharif,Millets,3790,225,23.8,Red,Canal,152.9,1.07,4060.12
+765,2016,Rajasthan,Ajmer,Rabi,Wheat,935,631.8,35.4,Red,Borewell,80.4,2.04,1909.41
+766,2017,Uttar Pradesh,Bareilly,Rabi,Rice,2690,900.6,26.8,Alluvial,Drip,126.7,3.46,9304.88
+767,2017,Telangana,Warangal,Kharif,Soybean,2694,661.6,30.6,Black,Borewell,114.8,1.34,3618.13
+768,2021,Telangana,Nalgonda,Kharif,Maize,432,433.2,26.9,Sandy,Canal,183.3,3.29,1421.14
+769,2025,Punjab,Patiala,Rabi,Millets,4390,490.9,23.9,Black,Canal,162.5,0.97,4274.92
+770,2020,Karnataka,Raichur,Kharif,Cotton,1604,602.9,26.7,Laterite,Borewell,96.5,1.8,2889.89
+771,2022,Andhra Pradesh,East Godavari,Kharif,Groundnut,3652,508,24.9,Sandy,Drip,46.7,2,7316.69
+772,2022,Karnataka,Raichur,Annual,Sugarcane,2298,1287.8,30.8,Black,Canal,108.7,47.63,109443.06
+773,2017,Uttar Pradesh,Varanasi,Kharif,Soybean,1792,464.8,24.8,Red,Rainfed,50.3,1.26,2253.64
+774,2025,Punjab,Amritsar,Kharif,Soybean,861,663.3,33.6,Laterite,Drip,201.6,1.25,1074.8
+775,2019,Punjab,Jalandhar,Rabi,Maize,4929,385.6,28.9,Alluvial,Canal,204.7,3,14766.8
+776,2020,Telangana,Khammam,Rabi,Pulses,4392,343.9,22.4,Laterite,Borewell,98.2,1.07,4712.51
+777,2023,Tamil Nadu,Tiruchirappalli,Kharif,Millets,760,278.5,21.9,Black,Drip,152.9,1.17,887.27
+778,2018,Punjab,Ludhiana,Rabi,Wheat,4860,508.6,32.1,Sandy,Drip,58.4,2.78,13526.56
+779,2022,Maharashtra,Kolhapur,Rabi,Wheat,1022,434.9,25.1,Black,Rainfed,79.8,2.84,2904.88
+780,2020,Punjab,Amritsar,Annual,Sugarcane,1773,726,30,Alluvial,Borewell,146,60.59,107434.79
+781,2019,Karnataka,Ballari,Rabi,Wheat,2999,432.8,20,Alluvial,Borewell,155.6,2.72,8145.61
+782,2017,Tamil Nadu,Thanjavur,Rabi,Groundnut,181,565.4,24.3,Alluvial,Drip,216.4,1.75,317.2
+783,2015,Andhra Pradesh,Krishna,Rabi,Maize,4257,431.6,30.7,Black,Drip,65,2.96,12612.7
+784,2020,Telangana,Warangal,Kharif,Rice,1319,452.5,32.2,Laterite,Borewell,210.8,2.87,3781
+785,2025,Tamil Nadu,Thanjavur,Rabi,Wheat,1898,364.6,18.2,Red,Canal,63.4,2.96,5624.54
+786,2023,Andhra Pradesh,Chittoor,Kharif,Soybean,4153,821.9,28.8,Red,Borewell,127.5,1.12,4663.04
+787,2018,Telangana,Nizamabad,Rabi,Pulses,1587,397,15.7,Red,Canal,83.1,0.79,1250.28
+788,2024,Maharashtra,Amravati,Annual,Sugarcane,3136,865.3,30.6,Laterite,Borewell,145.3,73.21,229580.03
+789,2025,Andhra Pradesh,Anantapur,Rabi,Pulses,1791,216.4,29,Red,Canal,152.8,1.01,1801.5
+790,2020,Andhra Pradesh,Prakasam,Rabi,Rice,4214,526.3,32,Alluvial,Canal,135.4,3.31,13940.56
+791,2023,Tamil Nadu,Coimbatore,Kharif,Soybean,4519,551.7,29.3,Black,Borewell,141,1.41,6377.58
+792,2018,Maharashtra,Amravati,Kharif,Groundnut,364,392.6,34.4,Red,Borewell,112.5,1.44,523.46
+793,2020,Uttar Pradesh,Lucknow,Rabi,Groundnut,1490,504.1,19.6,Sandy,Canal,201.2,1.64,2443.16
+794,2016,Karnataka,Dharwad,Rabi,Maize,2055,541.1,23.5,Alluvial,Drip,62.8,3.37,6930.19
+795,2020,Telangana,Warangal,Kharif,Soybean,3010,517,35.2,Alluvial,Rainfed,157.2,1,3006.89
+796,2015,Karnataka,Dharwad,Rabi,Pulses,1131,276.7,25.7,Black,Drip,93,0.95,1076.19
+797,2015,Tamil Nadu,Coimbatore,Rabi,Millets,4827,176.5,28.5,Laterite,Canal,165.1,0.93,4473.5
+798,2022,Andhra Pradesh,Guntur,Annual,Sugarcane,2875,1241.7,30.4,Alluvial,Rainfed,40.5,52.66,151404.28
+799,2015,Tamil Nadu,Coimbatore,Rabi,Groundnut,1571,474.9,30,Red,Rainfed,216.6,1.9,2989.85
+800,2018,Tamil Nadu,Erode,Rabi,Rice,2429,388.4,29.8,Laterite,Rainfed,207.2,2.88,7003.09
+801,2015,Andhra Pradesh,Chittoor,Kharif,Maize,838,541,27.3,Alluvial,Borewell,76.5,3.35,2804.3
+802,2019,Telangana,Khammam,Kharif,Groundnut,1209,529.9,23.5,Red,Rainfed,171.5,1.57,1893.46
+803,2019,Punjab,Jalandhar,Kharif,Maize,584,487.8,24.9,Laterite,Rainfed,168.9,2.7,1576.33
+804,2022,Maharashtra,Pune,Kharif,Millets,1770,447.7,29.2,Alluvial,Rainfed,44,1.11,1964.15
+805,2018,Punjab,Amritsar,Kharif,Soybean,3528,804.8,31,Red,Canal,52.5,1.25,4402.97
+806,2015,Telangana,Nizamabad,Rabi,Maize,2796,370,28.8,Black,Canal,170.1,3.36,9400.96
+807,2018,Karnataka,Belagavi,Rabi,Groundnut,3733,465.2,27.4,Sandy,Rainfed,191.5,1.78,6650.1
+808,2016,Rajasthan,Sri Ganganagar,Rabi,Wheat,3980,418.4,25.2,Sandy,Canal,76.2,2.96,11796.24
+809,2024,Karnataka,Belagavi,Kharif,Maize,3550,329.1,34,Alluvial,Drip,174.4,3.1,11018.94
+810,2023,Karnataka,Dharwad,Kharif,Soybean,4577,673.5,17.9,Sandy,Canal,188.6,1.16,5309.71
+811,2022,Maharashtra,Solapur,Kharif,Cotton,1482,425.5,26.1,Red,Rainfed,123.2,1.55,2299.1
+812,2019,Karnataka,Mysuru,Rabi,Wheat,2365,440.2,32.8,Alluvial,Canal,42.2,3.39,8015.93
+813,2016,Rajasthan,Sri Ganganagar,Kharif,Millets,1521,473.4,26.7,Alluvial,Borewell,135.6,0.99,1506.45
+814,2018,Telangana,Warangal,Kharif,Millets,691,430.7,14.2,Red,Rainfed,214.2,1.01,696.34
+815,2018,Punjab,Firozpur,Kharif,Maize,3138,661.7,24.2,Alluvial,Borewell,92.9,2.64,8288.15
+816,2022,Rajasthan,Udaipur,Kharif,Soybean,2390,429.8,27.3,Alluvial,Canal,189.3,1.35,3220.14
+817,2017,Uttar Pradesh,Varanasi,Rabi,Pulses,2385,248,27.9,Alluvial,Rainfed,71.6,0.75,1794.05
+818,2022,Maharashtra,Amravati,Kharif,Millets,403,349.9,29.7,Red,Rainfed,192.3,1.14,459.61
+819,2021,Tamil Nadu,Erode,Annual,Sugarcane,629,429.1,27.9,Black,Borewell,219.5,54.21,34100.05
+820,2022,Karnataka,Dharwad,Kharif,Cotton,2915,612,23.9,Sandy,Borewell,153.5,1.86,5418.76
+821,2022,Uttar Pradesh,Kanpur,Kharif,Cotton,1174,547.5,19.2,Laterite,Canal,121,1.46,1717.39
+822,2023,Karnataka,Dharwad,Kharif,Groundnut,4988,539.4,20.1,Black,Borewell,194.6,1.54,7691.12
+823,2022,Rajasthan,Kota,Kharif,Soybean,1506,649.7,27.9,Black,Canal,191.8,1.35,2038.66
+824,2020,Tamil Nadu,Coimbatore,Kharif,Millets,2650,384,27.6,Sandy,Borewell,133.6,1.26,3335.33
+825,2018,Uttar Pradesh,Lucknow,Rabi,Wheat,3776,443.7,36.1,Red,Rainfed,212.1,2.07,7811.29
+826,2018,Tamil Nadu,Erode,Rabi,Pulses,2494,282.3,27.8,Sandy,Canal,208.2,0.97,2417.43
+827,2025,Tamil Nadu,Thanjavur,Kharif,Millets,356,253.7,27.9,Black,Drip,139.7,1.31,465.53
+828,2025,Rajasthan,Kota,Annual,Sugarcane,286,834.5,28.1,Laterite,Drip,91.8,64.82,18538.64
+829,2024,Andhra Pradesh,East Godavari,Kharif,Millets,3210,263,23.3,Black,Borewell,87.4,1.13,3612.57
+830,2019,Tamil Nadu,Salem,Kharif,Soybean,2696,760.6,16.2,Black,Borewell,110.5,1.18,3169.74
+831,2025,Telangana,Khammam,Kharif,Maize,4620,374.9,28.1,Laterite,Canal,199.8,3.09,14294
+832,2019,Maharashtra,Pune,Rabi,Millets,3969,371.4,31.7,Laterite,Borewell,184.5,1.25,4968.01
+833,2024,Maharashtra,Solapur,Kharif,Rice,3698,456.1,22.9,Sandy,Rainfed,115.5,3.18,11762.39
+834,2019,Telangana,Nizamabad,Kharif,Soybean,2792,374.2,25.2,Black,Borewell,91.6,1.1,3077.34
+835,2025,Karnataka,Mandya,Rabi,Groundnut,4021,345.1,31.4,Laterite,Borewell,178.3,1.82,7309.41
+836,2021,Rajasthan,Jaipur,Kharif,Rice,506,745.8,29.8,Alluvial,Rainfed,41.7,3.03,1534.39
+837,2023,Punjab,Jalandhar,Kharif,Groundnut,4582,479.9,26.5,Red,Drip,67.8,2.12,9697.83
+838,2023,Rajasthan,Sri Ganganagar,Rabi,Pulses,429,285.8,31.5,Sandy,Borewell,142.9,1.16,497.15
+839,2015,Uttar Pradesh,Bareilly,Kharif,Groundnut,4255,481.1,21,Alluvial,Rainfed,190.1,1.78,7563.55
+840,2022,Telangana,Nizamabad,Kharif,Soybean,345,454.9,30.1,Black,Borewell,216.1,1.39,480.91
+841,2025,Rajasthan,Udaipur,Rabi,Maize,754,466.8,30.7,Sandy,Borewell,138.4,3.34,2516.63
+842,2021,Telangana,Karimnagar,Kharif,Millets,2719,483.9,22.2,Laterite,Borewell,81,1.09,2954.65
+843,2018,Andhra Pradesh,Guntur,Kharif,Cotton,2010,613.2,26.5,Red,Borewell,114.2,1.47,2954.16
+844,2024,Maharashtra,Nagpur,Rabi,Millets,4978,342.9,27.1,Alluvial,Drip,64.5,1.49,7424.31
+845,2021,Andhra Pradesh,East Godavari,Kharif,Soybean,4147,941.4,27,Black,Borewell,65.9,0.89,3698.94
+846,2016,Tamil Nadu,Salem,Rabi,Rice,2175,908.8,22.4,Sandy,Rainfed,134.3,2.22,4831.59
+847,2025,Telangana,Nizamabad,Rabi,Wheat,1279,645.6,29,Alluvial,Canal,204.4,2.24,2869.56
+848,2020,Telangana,Nizamabad,Rabi,Pulses,4676,302.1,19.2,Alluvial,Drip,161.3,0.98,4588.06
+849,2024,Tamil Nadu,Madurai,Rabi,Wheat,659,507.7,26.2,Black,Canal,86.5,3.3,2171.45
+850,2016,Maharashtra,Pune,Kharif,Millets,898,360.1,27.3,Laterite,Rainfed,112.7,1.1,991.74
+851,2022,Rajasthan,Kota,Rabi,Millets,4643,136,22.4,Alluvial,Canal,146.3,0.94,4381.81
+852,2017,Punjab,Firozpur,Rabi,Wheat,559,309.9,27.1,Alluvial,Borewell,207.7,2.96,1654.52
+853,2015,Maharashtra,Solapur,Annual,Sugarcane,2431,757.4,21.9,Black,Borewell,172.6,54.07,131436.76
+854,2024,Uttar Pradesh,Varanasi,Rabi,Pulses,504,275.8,28.3,Black,Canal,85.8,1.01,508.48
+855,2020,Uttar Pradesh,Bareilly,Kharif,Soybean,2968,498.7,25.6,Laterite,Borewell,186.2,1.29,3825.8
+856,2022,Tamil Nadu,Coimbatore,Kharif,Maize,2938,692.6,26.9,Sandy,Canal,101.5,3.29,9652.99
+857,2018,Rajasthan,Sri Ganganagar,Kharif,Cotton,4827,552.6,21.9,Black,Canal,177.6,1.77,8524.96
+858,2016,Uttar Pradesh,Varanasi,Kharif,Soybean,2521,716,29.2,Sandy,Borewell,68,1.4,3521.03
+859,2018,Punjab,Patiala,Kharif,Rice,3160,538.4,31.9,Alluvial,Canal,152.9,3.36,10626.81
+860,2024,Rajasthan,Sri Ganganagar,Annual,Sugarcane,947,636.2,32.3,Black,Borewell,51.1,58.6,55496.67
+861,2021,Uttar Pradesh,Bareilly,Rabi,Wheat,472,476.2,29.9,Black,Borewell,193.7,2.69,1270.15
+862,2016,Telangana,Karimnagar,Kharif,Cotton,1640,573.6,29.4,Black,Rainfed,51,1.51,2481.12
+863,2022,Tamil Nadu,Thanjavur,Rabi,Pulses,1242,421.6,20.9,Black,Borewell,83,0.89,1100.8
+864,2022,Uttar Pradesh,Bareilly,Kharif,Groundnut,102,677.3,24.9,Red,Drip,64.1,1.71,174.24
+865,2024,Tamil Nadu,Salem,Kharif,Rice,2244,792.3,24.4,Red,Canal,51,3.5,7848.61
+866,2025,Maharashtra,Kolhapur,Rabi,Wheat,706,377,30.6,Laterite,Canal,98,3.1,2190.58
+867,2023,Punjab,Jalandhar,Kharif,Soybean,3809,693.4,30.5,Alluvial,Borewell,196.9,1.41,5387.21
+868,2024,Maharashtra,Pune,Annual,Sugarcane,1381,850.8,28,Sandy,Rainfed,119.9,60.24,83188.15
+869,2023,Rajasthan,Jaipur,Kharif,Groundnut,1038,651.2,34.4,Black,Canal,216.4,1.49,1542.72
+870,2020,Maharashtra,Nashik,Annual,Sugarcane,1303,588.9,22.8,Laterite,Borewell,195.4,61.84,80573.74
+871,2017,Rajasthan,Bikaner,Kharif,Soybean,1721,374.1,29,Sandy,Canal,177.1,1.32,2264.52
+872,2024,Tamil Nadu,Erode,Rabi,Wheat,697,450.3,31.8,Laterite,Canal,154.9,3.18,2217.87
+873,2015,Tamil Nadu,Thanjavur,Kharif,Pulses,3849,395.9,17.2,Laterite,Borewell,89.5,0.71,2737.53
+874,2018,Maharashtra,Pune,Rabi,Pulses,1200,209.4,32.3,Alluvial,Rainfed,179.3,0.74,893.15
+875,2016,Punjab,Bathinda,Rabi,Maize,1396,733,24.2,Sandy,Borewell,152.5,2.25,3138.77
+876,2018,Tamil Nadu,Coimbatore,Rabi,Rice,1181,768.5,22.1,Red,Borewell,135.8,3.35,3956.54
+877,2015,Telangana,Nalgonda,Kharif,Groundnut,4913,695.2,24.6,Black,Borewell,53.4,1.31,6440.1
+878,2024,Telangana,Mahabubnagar,Kharif,Maize,1599,287.2,26.3,Red,Drip,131.4,3.13,5000.49
+879,2016,Uttar Pradesh,Prayagraj,Kharif,Soybean,1047,480.7,33.3,Black,Canal,133.7,1.25,1312.24
+880,2024,Uttar Pradesh,Lucknow,Annual,Sugarcane,1956,813.7,23.2,Red,Borewell,122.1,55.43,108416.8
+881,2024,Andhra Pradesh,Chittoor,Kharif,Cotton,4229,524.8,29.1,Alluvial,Canal,96.7,1.84,7766.82
+882,2020,Telangana,Khammam,Rabi,Wheat,4794,478,27.5,Laterite,Rainfed,72,2.84,13593.01
+883,2016,Uttar Pradesh,Prayagraj,Kharif,Pulses,308,269,33.9,Alluvial,Borewell,173.3,1.05,324.28
+884,2021,Punjab,Ludhiana,Kharif,Pulses,2755,343.4,30.5,Red,Rainfed,152.5,0.94,2598.15
+885,2016,Maharashtra,Nagpur,Rabi,Groundnut,3565,493.1,35.5,Black,Borewell,204,1.97,7034.85
+886,2022,Uttar Pradesh,Varanasi,Rabi,Wheat,681,361,31.8,Red,Canal,103.2,3.3,2245.6
+887,2019,Tamil Nadu,Thanjavur,Annual,Sugarcane,1756,939.9,27.4,Sandy,Rainfed,83,51.55,90516.78
+888,2022,Karnataka,Ballari,Kharif,Maize,3791,434.4,20.5,Black,Drip,213,3.61,13685.35
+889,2018,Karnataka,Mandya,Kharif,Millets,2868,412.6,23.2,Laterite,Borewell,145.6,1.34,3832.85
+890,2022,Punjab,Amritsar,Rabi,Wheat,2349,580.7,27.4,Alluvial,Borewell,131.5,2.22,5221.26
+891,2015,Andhra Pradesh,Krishna,Kharif,Soybean,2309,598.4,22,Sandy,Borewell,158.1,1.31,3026.21
+892,2023,Telangana,Warangal,Rabi,Groundnut,2549,459.4,29.3,Black,Drip,187.7,2.27,5781.55
+893,2021,Karnataka,Mysuru,Rabi,Groundnut,2024,624.8,34.4,Sandy,Canal,183.6,1.62,3284.27
+894,2023,Rajasthan,Udaipur,Kharif,Rice,1241,727.1,22.5,Black,Rainfed,171.1,2.64,3281.32
+895,2018,Tamil Nadu,Thanjavur,Rabi,Pulses,4935,378.6,27.9,Black,Rainfed,56.8,0.88,4329.04
+896,2021,Maharashtra,Nagpur,Rabi,Rice,2951,566.4,38,Alluvial,Borewell,69.2,3.48,10283.89
+897,2020,Uttar Pradesh,Kanpur,Rabi,Maize,621,464.3,26.7,Alluvial,Drip,192.4,3.21,1995.07
+898,2015,Uttar Pradesh,Agra,Rabi,Maize,2864,552.8,25.7,Alluvial,Borewell,133.7,3.26,9331.41
+899,2017,Karnataka,Mysuru,Rabi,Pulses,4279,294.5,30.5,Red,Rainfed,67.7,0.95,4077.32
+900,2016,Rajasthan,Ajmer,Rabi,Groundnut,2160,485.2,32.6,Laterite,Borewell,204.7,1.89,4074.76
+901,2023,Uttar Pradesh,Prayagraj,Rabi,Groundnut,3915,645.7,23.8,Laterite,Canal,185.3,1.76,6883.23
+902,2020,Uttar Pradesh,Kanpur,Rabi,Pulses,2519,330.1,13.3,Alluvial,Borewell,72.2,0.96,2407.45
+903,2024,Karnataka,Belagavi,Kharif,Groundnut,2045,599,30.5,Sandy,Rainfed,215.8,1.52,3103.07
+904,2018,Telangana,Nizamabad,Annual,Sugarcane,456,809.8,28.1,Red,Rainfed,155.9,59.28,27033.33
+905,2016,Rajasthan,Kota,Kharif,Cotton,1297,848.8,22.1,Black,Rainfed,43.2,1.05,1366.09
+906,2015,Maharashtra,Kolhapur,Rabi,Rice,248,652.6,32.4,Sandy,Canal,177.8,3.91,969.47
+907,2025,Uttar Pradesh,Lucknow,Kharif,Soybean,4775,491.5,21.2,Alluvial,Borewell,202.8,1.32,6302.11
+908,2025,Karnataka,Mysuru,Kharif,Millets,919,373.6,26,Red,Drip,123.2,1.25,1152.18
+909,2016,Rajasthan,Sri Ganganagar,Kharif,Maize,4171,371.8,20.2,Black,Borewell,169,2.72,11328.41
+910,2016,Tamil Nadu,Coimbatore,Rabi,Groundnut,2574,529.7,35.9,Black,Borewell,108.9,1.59,4091.8
+911,2019,Karnataka,Dharwad,Kharif,Rice,4441,771,25.5,Black,Borewell,167,3.6,16009.14
+912,2022,Karnataka,Dharwad,Annual,Sugarcane,1044,873.6,26.5,Black,Borewell,74.9,65.32,68195.63
+913,2019,Karnataka,Mandya,Rabi,Wheat,4291,609.4,23.1,Red,Canal,197.3,2.09,8983.69
+914,2025,Andhra Pradesh,Anantapur,Rabi,Maize,4944,573.9,19.3,Black,Rainfed,48.5,2.86,14125.23
+915,2021,Rajasthan,Udaipur,Rabi,Wheat,2328,571.4,29.7,Black,Rainfed,108,1.86,4325.24
+916,2022,Karnataka,Ballari,Rabi,Rice,275,478.7,25.2,Alluvial,Borewell,94.2,3.07,843.91
+917,2018,Uttar Pradesh,Bareilly,Kharif,Rice,3480,537.2,27.8,Black,Canal,50.7,3.54,12311.09
+918,2020,Rajasthan,Bikaner,Rabi,Maize,3483,742.9,32.9,Black,Drip,45.5,2.95,10270.36
+919,2016,Tamil Nadu,Erode,Kharif,Cotton,488,494.6,29.1,Black,Rainfed,219.9,1.35,660.45
+920,2020,Uttar Pradesh,Prayagraj,Kharif,Cotton,2073,450.6,29.4,Red,Rainfed,52.5,1.58,3274.63
+921,2024,Tamil Nadu,Erode,Rabi,Pulses,3697,264.4,18.4,Alluvial,Borewell,53.1,0.99,3657.6
+922,2016,Punjab,Jalandhar,Kharif,Rice,3917,559.4,35.9,Laterite,Borewell,186.4,3.82,14964.56
+923,2019,Karnataka,Raichur,Kharif,Cotton,4704,489.8,31.1,Sandy,Rainfed,199.1,1.29,6069.31
+924,2021,Uttar Pradesh,Kanpur,Rabi,Groundnut,3734,458.5,23.9,Red,Canal,92.4,2.04,7617.17
+925,2021,Tamil Nadu,Salem,Annual,Sugarcane,3636,1349.6,27.2,Laterite,Canal,102.7,47.85,173993.1
+926,2021,Karnataka,Ballari,Kharif,Groundnut,2766,662.2,27.5,Laterite,Borewell,211,1.45,3997.84
+927,2017,Uttar Pradesh,Agra,Rabi,Rice,968,588.2,23.4,Black,Rainfed,74,3.16,3060.94
+928,2018,Rajasthan,Kota,Rabi,Rice,1613,725.7,27,Alluvial,Borewell,105.4,3.77,6086.46
+929,2019,Maharashtra,Kolhapur,Rabi,Wheat,924,402.8,29.7,Alluvial,Canal,43.8,3.28,3029.31
+930,2017,Uttar Pradesh,Lucknow,Kharif,Soybean,4416,530.2,22.2,Laterite,Borewell,100.1,1.19,5251.37
+931,2015,Punjab,Firozpur,Kharif,Millets,1062,252.4,22.1,Red,Canal,155.7,1.09,1158.39
+932,2019,Andhra Pradesh,Chittoor,Rabi,Wheat,4509,451.6,35.6,Alluvial,Borewell,151.7,3.13,14124.88
+933,2015,Rajasthan,Jaipur,Rabi,Wheat,1646,382,24.8,Laterite,Borewell,100.7,3.22,5294.93
+934,2019,Telangana,Mahabubnagar,Rabi,Maize,3635,374.3,27.7,Sandy,Canal,115.8,2.73,9922.63
+935,2020,Karnataka,Ballari,Kharif,Cotton,507,556.2,33.6,Red,Borewell,87.3,1.62,819.77
+936,2023,Andhra Pradesh,Chittoor,Kharif,Millets,2954,299,30.2,Sandy,Borewell,189,1.08,3195.7
+937,2024,Maharashtra,Nashik,Kharif,Soybean,4203,462.8,30.7,Laterite,Borewell,214.9,1.41,5929.68
+938,2024,Tamil Nadu,Tiruchirappalli,Annual,Sugarcane,732,872,30.5,Alluvial,Borewell,173.5,64.95,47540.84
+939,2015,Karnataka,Belagavi,Annual,Sugarcane,2526,994.1,30.9,Red,Rainfed,91.5,50.31,127091.81
+940,2016,Karnataka,Ballari,Rabi,Maize,2054,525.9,12,Red,Canal,131.4,2.63,5402.45
+941,2021,Punjab,Patiala,Kharif,Rice,4416,558,22.9,Laterite,Canal,80.5,3.7,16347.59
+942,2021,Andhra Pradesh,Krishna,Rabi,Groundnut,1574,506.1,32.8,Red,Drip,104.6,2.01,3158.22
+943,2020,Telangana,Mahabubnagar,Rabi,Rice,4649,525.1,33.9,Red,Borewell,116.5,2.98,13855.93
+944,2018,Maharashtra,Amravati,Kharif,Soybean,3778,541.6,27,Black,Drip,43.7,1.74,6589.54
+945,2024,Andhra Pradesh,Krishna,Kharif,Maize,2043,493,29.2,Sandy,Borewell,178.1,3.15,6428.6
+946,2017,Karnataka,Dharwad,Kharif,Cotton,846,391.3,25,Sandy,Borewell,160.9,1.69,1430.14
+947,2024,Uttar Pradesh,Bareilly,Rabi,Rice,763,459.7,28.1,Black,Rainfed,115.9,2.6,1985.18
+948,2019,Andhra Pradesh,Chittoor,Annual,Sugarcane,4502,747.3,24.6,Alluvial,Rainfed,63.9,54.49,245325.01
+949,2019,Rajasthan,Bikaner,Rabi,Millets,4573,400.5,18.2,Red,Canal,62.6,1.08,4929.28
+950,2017,Karnataka,Dharwad,Rabi,Groundnut,1653,488.3,35,Black,Borewell,154.8,1.56,2574.83
+951,2024,Maharashtra,Kolhapur,Kharif,Pulses,4377,376.3,33.2,Black,Drip,102.1,0.83,3644.08
+952,2020,Karnataka,Mandya,Rabi,Maize,3375,473.7,26.4,Black,Canal,143.6,3.99,13470.97
+953,2023,Punjab,Ludhiana,Kharif,Soybean,2546,567.4,28.5,Sandy,Drip,72.5,1.67,4241.33
+954,2025,Karnataka,Mandya,Kharif,Pulses,2779,288.6,33.5,Laterite,Borewell,150.8,0.97,2701.6
+955,2023,Maharashtra,Pune,Kharif,Cotton,2495,583.1,23.9,Sandy,Canal,130.4,1.5,3754.48
+956,2023,Telangana,Nizamabad,Rabi,Wheat,1665,484.3,28.8,Laterite,Rainfed,114.7,2.85,4738.75
+957,2016,Uttar Pradesh,Lucknow,Rabi,Millets,316,459.3,28.3,Red,Borewell,42.8,1.08,340.6
+958,2022,Rajasthan,Sri Ganganagar,Rabi,Wheat,1662,482.7,25.3,Laterite,Canal,130.3,2.82,4679.55
+959,2020,Punjab,Jalandhar,Rabi,Groundnut,371,500.3,31.4,Black,Rainfed,159,1.58,587.41
+960,2024,Punjab,Bathinda,Kharif,Rice,1401,608.5,29,Alluvial,Rainfed,113.6,3.64,5092.71
+961,2015,Punjab,Bathinda,Kharif,Rice,1996,822.8,19.1,Red,Canal,202.7,3.27,6521.39
+962,2019,Maharashtra,Amravati,Annual,Sugarcane,3301,521.9,30.1,Sandy,Rainfed,133.9,51.38,169600.33
+963,2023,Maharashtra,Nashik,Kharif,Soybean,3504,727.7,23.6,Red,Borewell,87.4,1.18,4137.71
+964,2023,Andhra Pradesh,Anantapur,Kharif,Soybean,4539,322.3,33.7,Red,Borewell,213.6,0.96,4340.44
+965,2021,Karnataka,Raichur,Kharif,Cotton,4258,374,28.2,Laterite,Canal,186.1,1.63,6949.15
+966,2023,Rajasthan,Ajmer,Rabi,Pulses,2224,264.2,33.9,Alluvial,Borewell,207.4,0.92,2036.25
+967,2018,Karnataka,Mandya,Rabi,Pulses,1779,177.4,32.1,Black,Canal,175.8,0.83,1477.79
+968,2015,Andhra Pradesh,Krishna,Annual,Sugarcane,2911,887.5,25,Sandy,Drip,148.9,75.71,220392.06
+969,2016,Andhra Pradesh,East Godavari,Rabi,Maize,4818,615.9,30.2,Laterite,Rainfed,58.5,2.37,11414.43
+970,2024,Punjab,Bathinda,Kharif,Soybean,572,703.5,28.7,Sandy,Rainfed,75.8,1.02,584.67
+971,2022,Rajasthan,Ajmer,Rabi,Millets,1176,544.7,22.1,Red,Borewell,103.6,1.01,1189.62
+972,2019,Rajasthan,Ajmer,Kharif,Soybean,2444,663.2,20.5,Black,Rainfed,194.3,0.97,2380.5
+973,2016,Maharashtra,Kolhapur,Kharif,Groundnut,4008,562.7,18.5,Alluvial,Drip,50.9,1.72,6913.12
+974,2019,Maharashtra,Nashik,Rabi,Maize,3129,515.6,29.1,Laterite,Borewell,159.7,3.36,10499.47
+975,2017,Telangana,Nalgonda,Annual,Sugarcane,1539,1301.1,25.9,Black,Borewell,210.6,52.79,81237.99
+976,2022,Uttar Pradesh,Varanasi,Kharif,Rice,2972,458.4,24.8,Laterite,Canal,204.6,3.68,10929.93
+977,2015,Karnataka,Ballari,Rabi,Pulses,3254,351,30.5,Alluvial,Rainfed,147.6,0.84,2723.43
+978,2022,Andhra Pradesh,East Godavari,Rabi,Millets,4233,387,26.7,Red,Canal,45.1,1.55,6550.82
+979,2021,Rajasthan,Kota,Kharif,Pulses,4414,257,23.2,Sandy,Drip,198,1.17,5151.57
+980,2019,Telangana,Karimnagar,Kharif,Maize,2953,534.5,20.3,Alluvial,Rainfed,81.8,2.32,6840.78
+981,2023,Maharashtra,Nagpur,Kharif,Cotton,2792,680,13.2,Laterite,Borewell,120.6,1.44,4025.21
+982,2023,Andhra Pradesh,East Godavari,Kharif,Rice,3935,688.5,22.8,Alluvial,Canal,157.7,4.07,15996.83
+983,2017,Tamil Nadu,Erode,Rabi,Wheat,914,342.4,25.3,Laterite,Rainfed,144.1,2.3,2100.25
+984,2022,Andhra Pradesh,Krishna,Rabi,Pulses,4466,269.8,33.5,Black,Borewell,176.3,0.9,4002.6
+985,2018,Rajasthan,Ajmer,Kharif,Pulses,1220,196.2,24.5,Black,Canal,70.3,1.03,1260.06
+986,2023,Andhra Pradesh,Chittoor,Kharif,Soybean,1825,469.6,30.3,Laterite,Borewell,161.5,1.34,2453.61
+987,2021,Uttar Pradesh,Lucknow,Rabi,Maize,1756,526.2,23.2,Sandy,Rainfed,43.7,2.64,4635.75
+988,2022,Punjab,Firozpur,Kharif,Millets,1317,374.5,31.9,Laterite,Borewell,76.1,1.14,1500.37
+989,2018,Punjab,Bathinda,Rabi,Pulses,1025,334.2,31.3,Red,Borewell,204.7,1.11,1134.6
+990,2016,Tamil Nadu,Coimbatore,Kharif,Cotton,2686,567.1,27.7,Sandy,Drip,83.2,1.77,4755.56
+991,2020,Maharashtra,Kolhapur,Rabi,Groundnut,1524,466.2,22.1,Sandy,Rainfed,125.4,1.58,2404.37
+992,2015,Karnataka,Mysuru,Kharif,Cotton,3747,536.8,31.8,Alluvial,Canal,125.6,1.72,6436.84
+993,2021,Karnataka,Raichur,Rabi,Wheat,4782,550.4,30.5,Alluvial,Borewell,136.9,2.39,11442.28
+994,2018,Uttar Pradesh,Varanasi,Kharif,Maize,4003,477.7,26.2,Red,Canal,133.6,3.74,14972.24
+995,2019,Maharashtra,Solapur,Kharif,Cotton,696,407.7,30.5,Red,Borewell,71,1.42,987.46
+996,2023,Andhra Pradesh,Chittoor,Kharif,Cotton,2731,484.9,29.1,Sandy,Rainfed,215.7,1.37,3740.18
+997,2020,Rajasthan,Kota,Kharif,Soybean,2888,668.3,23.2,Red,Rainfed,213.7,1.1,3163.8
+998,2023,Uttar Pradesh,Prayagraj,Rabi,Wheat,4564,364.8,29.5,Laterite,Borewell,108.9,3.01,13744.64
+999,2017,Punjab,Patiala,Rabi,Maize,4960,607.2,24.8,Alluvial,Borewell,89.3,3.07,15212.21
+1000,2023,Karnataka,Dharwad,Rabi,Maize,1325,572.6,26.3,Red,Canal,201,3.03,4020.08
